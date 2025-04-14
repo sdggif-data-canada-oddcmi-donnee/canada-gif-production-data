@@ -1,0 +1,60 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rate per 100,000 population",
+                "Number",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Type of natural disaster",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Storm - Unspecified / Other",
+                "Wildfire",
+                "Storms and Severe Thunderstorms",
+                "Flood",
+                "Winter Storm",
+                "Hurricane / Typhoon / Tropical Storm",
+                "Tornado",
+                "Heat Event",
+                ""
+              ]
+            },
+            "title": "Type of natural disaster"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-5-1",
+  "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+}

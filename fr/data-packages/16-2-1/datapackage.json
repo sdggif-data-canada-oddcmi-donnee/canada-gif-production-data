@@ -1,0 +1,173 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Type of childhood maltreatment",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Violence physique ou sexuelle",
+                "Violence physique",
+                "Violence sexuelle",
+                ""
+              ]
+            },
+            "title": "Type de violence physique ou sexuelle subie durant l'enfance"
+          },
+          {
+            "name": "Geography",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Canada",
+                "Terre-Neuve-et-Labrador",
+                "Île-du-Prince-Édouard",
+                "Nouvelle-Écosse",
+                "Nouveau-Brunswick",
+                "Québec",
+                "Ontario",
+                "Manitoba",
+                "Saskatchewan",
+                "Alberta",
+                "Colombie-Britannique",
+                "Yukon",
+                "Territoires du Nord-Ouest",
+                "Nunavut",
+                ""
+              ]
+            },
+            "title": "Géographie"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Genre masculin",
+                "Genre féminin",
+                "Total, genre",
+                ""
+              ]
+            },
+            "title": "Genre"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total, âge",
+                "15 à 24 ans",
+                "25 à 34 ans",
+                "35 à 44 ans",
+                "45 à 54 ans",
+                ""
+              ]
+            },
+            "title": "Âge"
+          },
+          {
+            "name": "Immigrant status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total, statut d'immigrant",
+                "Immigrants",
+                "Status d'immigrant non précisée",
+                ""
+              ]
+            },
+            "title": "Status d'immigrant"
+          },
+          {
+            "name": "Visible minority",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total, population des minorités visibles",
+                "Population des minorités visibles",
+                "Pas une minorité visible",
+                "Population des minorités visibles non précisée",
+                ""
+              ]
+            },
+            "title": "Minorité visible"
+          },
+          {
+            "name": "Indigenous identity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Premières Nations (Indien de l'Amérique du Nord)",
+                "Métis",
+                "Inuk (Inuit)",
+                "Identité non autochtone",
+                "Identité autochtone non précisée",
+                "Autre identité autochtone",
+                ""
+              ]
+            },
+            "title": "Identité autochtone"
+          },
+          {
+            "name": "Disability status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total, incapacité",
+                "Personne ayant une incapacité",
+                "Personne n'ayant aucune incapacité",
+                ""
+              ]
+            },
+            "title": "Incapacité"
+          },
+          {
+            "name": "Sexual orientation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total, orientation sexuelle",
+                "Hétérosexuel",
+                "Minorité sexuelle",
+                "Lesbienne ou gai",
+                "Bisexuel ou pansexuel",
+                "Orientation sexuelle non précisée",
+                "Orientation sexuelle non classée ailleurs",
+                ""
+              ]
+            },
+            "title": "Orientation sexuelle"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valeur"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-2-1",
+  "title": "Proportion des enfants âgés de 1 à 17 ans ayant subi des châtiments corporels ou des agressions psychologiques infligés par une personne s’occupant d’eux au cours du mois précédent"
+}

@@ -1,0 +1,67 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Geography",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Atlantic Canada",
+                "Southern Quebec",
+                "Southern Ontario",
+                "Prairies and northern Ontario",
+                "British Columbia",
+                "Calgary, AB",
+                "Charlottetown, PE",
+                "Edmonton, AB",
+                "Fredericton, NB",
+                "Gatineau, QC",
+                "Halifax, NS",
+                "Hamilton, ON",
+                "Kelowna, BC",
+                "Kitchener, ON",
+                "London, ON",
+                "Montreal, QC",
+                "Oshawa, ON",
+                "Ottawa, ON",
+                "Quebec, QC",
+                "Regina, SK",
+                "Saskatoon, SK",
+                "St. Catharines - Niagara Falls, ON",
+                "St. John's, NL",
+                "Toronto, ON",
+                "Vancouver, BC",
+                "Victoria, BC",
+                "Whitehorse, YT",
+                "Windsor, ON",
+                "Winnipeg, MB",
+                "Yellowknife, NT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-6-2",
+  "title": "global_indicators.11-6-2-title"
+}

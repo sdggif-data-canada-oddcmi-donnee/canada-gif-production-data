@@ -1,0 +1,53 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Population group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Women of reproductive age",
+                "Pregnant women only",
+                "Non-pregnant women only",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Severity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Severe",
+                "Moderate",
+                "Mild",
+                "Total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-2-3",
+  "title": "global_indicators.2-2-3-title"
+}

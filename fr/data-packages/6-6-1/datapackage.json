@@ -1,0 +1,86 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nombre de bassins (partagés) présentant des changements importants dans l’étendue des eaux de surface",
+                "Eau permanente",
+                "Eau saisonnière",
+                "Étendue du réservoir",
+                "Étendue des millieux humides",
+                "Qualité de l’eau du lac, la turbidité",
+                "Lake water quality, trophic",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Pourcentage (%)",
+                "Nombre",
+                "Kilomètres carrés",
+                ""
+              ]
+            },
+            "title": "Unités"
+          },
+          {
+            "name": "Water extent",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Maximum",
+                "Minimum",
+                ""
+              ]
+            },
+            "title": "Water extent"
+          },
+          {
+            "name": "Water quality",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Low",
+                "Medium",
+                "High",
+                "Extreme",
+                ""
+              ]
+            },
+            "title": "Qualité de l'eau"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valeur"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-6-1",
+  "title": "Variation de l’étendue des écosystèmes tributaires de l’eau"
+}

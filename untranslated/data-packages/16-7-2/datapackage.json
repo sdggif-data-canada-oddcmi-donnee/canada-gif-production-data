@@ -1,0 +1,93 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Institutions",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Confidence in the justice system and courts",
+                "Confidence in Federal Parliament",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Selected sociodemographic characteristics",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total, 15 years and over",
+                "15 to 24 years",
+                "25 to 64 years",
+                "65 years and over",
+                "Men",
+                "Women",
+                "Immigrants",
+                "Non-Immigrants",
+                "First generation",
+                "Second generation",
+                "Third generation or more",
+                "First official language spoken, English only",
+                "First official language spoken, French only",
+                "Secondary (high) school diploma or equivalency certificate or less",
+                "Postsecondary certificate or diploma (non-university)",
+                "University certificate or diploma",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Visible minority",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total population",
+                "Total visible minority population",
+                "South Asian",
+                "Chinese",
+                "Black",
+                "Filipino",
+                "Arab",
+                "Latin American",
+                "Southeast Asian",
+                "Not a visible minority",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Use with caution",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-7-2",
+  "title": "global_indicators.16-7-2-title"
+}

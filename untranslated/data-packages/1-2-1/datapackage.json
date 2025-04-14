@@ -1,0 +1,87 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Persons in low income",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All persons",
+                "Females",
+                "Females, 18 to 64 years",
+                "Females, 65 years and over",
+                "Females, under 18 years",
+                "Males",
+                "Males, 18 to 64 years",
+                "Males, 65 years and over",
+                "Males, under 18 years",
+                "Persons 18 to 64 years",
+                "Persons 65 years and over",
+                "Persons under 18 years",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geography",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Alberta",
+                "Atlantic provinces",
+                "British Columbia",
+                "Calgary, Alberta",
+                "Canada",
+                "Edmonton, Alberta",
+                "Manitoba",
+                "Montréal, Quebec",
+                "New Brunswick",
+                "Newfoundland and Labrador",
+                "Northwest Territories",
+                "Nova Scotia",
+                "Nunavut",
+                "Ontario",
+                "Ottawa-Gatineau, Ontario/Quebec",
+                "Prairie provinces",
+                "Prince Edward Island",
+                "Quebec",
+                "Québec, Quebec",
+                "Saskatchewan",
+                "Toronto, Ontario",
+                "Vancouver, British Columbia",
+                "Winnipeg, Manitoba",
+                "Yukon",
+                "Yukon and Northwest Territories",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "1-2-1",
+  "title": "global_indicators.1-2-1-title"
+}

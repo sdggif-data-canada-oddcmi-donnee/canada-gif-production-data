@@ -1,0 +1,117 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Occupation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total employees, all occupations",
+                "Management occupations",
+                "Business, finance and administration occupations, except management",
+                "Natural and applied sciences and related occupations, except management",
+                "Health occupations, except management",
+                "Occupations in education, law and social, community and government services, except management",
+                "Occupations in art, culture, recreation and sport, except management",
+                "Sales and service occupations, except management",
+                "Trades, transport and equipment operators and related occupations, except management",
+                "Natural resources, agriculture and related production occupations, except management",
+                "Occupations in manufacturing and utilities, except management",
+                ""
+              ]
+            },
+            "title": "Occupation"
+          },
+          {
+            "name": "Type of work",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both full- and part-time employees",
+                "Full-time employees",
+                "Part-time employees",
+                ""
+              ]
+            },
+            "title": "Type of work"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total - Gender",
+                "Men+",
+                "Women+",
+                ""
+              ]
+            },
+            "title": "Gender"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 to 24 years",
+                "25 to 54 years",
+                "55 years and over",
+                "15 years and over",
+                ""
+              ]
+            },
+            "title": "Age group"
+          },
+          {
+            "name": "Geography",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Canada",
+                "Newfoundland and Labrador",
+                "Prince Edward Island",
+                "Nova Scotia",
+                "New Brunswick",
+                "Quebec",
+                "Ontario",
+                "Manitoba",
+                "Saskatchewan",
+                "Alberta",
+                "British Columbia",
+                ""
+              ]
+            },
+            "title": "Geography"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-5-1",
+  "title": "Average hourly earnings of employees, by sex, age, occupation and persons with disabilities"
+}

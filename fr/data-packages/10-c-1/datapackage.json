@@ -1,0 +1,79 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Amount last sent",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "100 $ ou moins",
+                "101 $ à 200 $",
+                "201 $ à 300 $",
+                "301 $ à 500 $",
+                "501 $ à 1 000 $",
+                "1 001 $ ou plus",
+                ""
+              ]
+            },
+            "title": "Montant d'argent envoyé lors du dernier transfert de fonds"
+          },
+          {
+            "name": "Method",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Méthodes traditionnelles",
+                "Méthodes électroniques",
+                "Toutes les méthodes",
+                ""
+              ]
+            },
+            "title": "Méthode"
+          },
+          {
+            "name": "Destination region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Toutes les régions",
+                "Amériques",
+                "Europe de l'Est et Europe du Sud",
+                "Afrique subsaharienne",
+                "Afrique du Nord",
+                "Asie de l'Ouest et centrale et Moyen-Orient",
+                "Asie de l'Est",
+                "Asie du Sud-Est et Océanie",
+                "Asie du Sud",
+                "Pays non admissibles à l'aide publique au développement",
+                ""
+              ]
+            },
+            "title": "Région de destination"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valeur"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-c-1",
+  "title": "Coûts des envois de fonds en proportion du montant transféré"
+}

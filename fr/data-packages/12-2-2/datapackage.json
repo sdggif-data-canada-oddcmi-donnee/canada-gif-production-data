@@ -1,0 +1,56 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Consommation matérielle nationale",
+                "Consommation matérielle nationale par habitant",
+                "Consommation matérielle nationale par unité de PIB",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tonnes (million)",
+                "Tonnes par habitant",
+                "Tonnes par dollar",
+                ""
+              ]
+            },
+            "title": "Unités"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valeur"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "12-2-2",
+  "title": "Consommation matérielle nationale, consommation matérielle nationale par habitant et consommation matérielle nationale par unité de PIB"
+}

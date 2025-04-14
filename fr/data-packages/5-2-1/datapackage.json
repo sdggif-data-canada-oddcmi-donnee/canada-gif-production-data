@@ -1,0 +1,63 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Type of intimate partner violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Violence psychologique, émotionnelle ou exploitation financière",
+                "Violence physique",
+                "Violence sexuelle",
+                "Total de tous les types de violence",
+                ""
+              ]
+            },
+            "title": "Type de violence entre partenaires intimes"
+          },
+          {
+            "name": "Selected characteristics",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total, toutes les femmes",
+                "Femmes de 15 à 24 ans",
+                "Femmes séparées ou divorcées",
+                "Femmes LGBTQ2",
+                "Femmes célibataires",
+                "Femmes des Premières Nations, métisses ou inuites",
+                "Femmes ayant une incapacité",
+                "Femmes immigrantes",
+                "Femmes désignées comme minorités visibles",
+                ""
+              ]
+            },
+            "title": "Caractéristiques sélectionnées"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valeur"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-2-1",
+  "title": "Proportion de femmes et de filles âgées de 15 ans ou plus ayant vécu en couple victimes de violences physiques, sexuelles ou psychologiques infligées au cours des 12 mois précédents par leur partenaire actuel ou un ancien partenaire, par forme de violence et par âge"
+}

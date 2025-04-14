@@ -1,0 +1,210 @@
+Year,Series,Units,Niveau de scolarité,Groupe d'âge,Sexe,Emplacement,COMMENT_OBS,Value
+2015,Taux d'achèvement,Indice de parité entre les sexes ajusté,Éducation primaire,,,,Donnée modélisée,1.0
+2016,Taux d'achèvement,Indice de parité entre les sexes ajusté,Éducation primaire,,,,Donnée modélisée,1.0
+2015,Taux d'achèvement,Indice de parité entre les sexes ajusté,Éducation secondaire de premier cycle,,,,Donnée modélisée,1.01
+2016,Taux d'achèvement,Indice de parité entre les sexes ajusté,Éducation secondaire de premier cycle,,,,Donnée modélisée,1.01
+2015,Taux d'achèvement,Indice de parité entre les sexes ajusté,Éducation secondaire de deuxième cycle,,,,,1.01
+2016,Taux d'achèvement,Indice de parité entre les sexes ajusté,Éducation secondaire de deuxième cycle,,,,,1.05
+2017,Taux d'achèvement,Indice de parité entre les sexes ajusté,Éducation secondaire de deuxième cycle,,,,,1.01
+2015,Taux d'achèvement,Indice de parité entre milieu urbain et rural ajusté,Éducation secondaire de deuxième cycle,,,,,0.94
+2016,Taux d'achèvement,Indice de parité entre milieu urbain et rural ajusté,Éducation secondaire de deuxième cycle,,,,,1.01
+2017,Taux d'achèvement,Indice de parité entre milieu urbain et rural ajusté,Éducation secondaire de deuxième cycle,,,,,0.95
+2015,Taux d'achèvement,Indice de parité de richesse ajusté,Éducation secondaire de deuxième cycle,,,,,0.9
+2016,Taux d'achèvement,Indice de parité de richesse ajusté,Éducation secondaire de deuxième cycle,,,,,0.89
+2017,Taux d'achèvement,Indice de parité de richesse ajusté,Éducation secondaire de deuxième cycle,,,,,0.94
+2015,Taux de scolarité,Indice de parité entre les sexes ajusté,Au moins une partie de l'éducation primaire (CITE 1),,,,,1.0
+2016,Taux de scolarité,Indice de parité entre les sexes ajusté,Au moins une partie de l'éducation primaire (CITE 1),,,,,1.0
+2017,Taux de scolarité,Indice de parité entre les sexes ajusté,Au moins une partie de l'éducation primaire (CITE 1),,,,,1.0
+2018,Taux de scolarité,Indice de parité entre les sexes ajusté,Au moins une partie de l'éducation primaire (CITE 1),,,,,1.0
+2019,Taux de scolarité,Indice de parité entre les sexes ajusté,Au moins une partie de l'éducation primaire (CITE 1),,,,,1.0
+2020,Taux de scolarité,Indice de parité entre les sexes ajusté,Au moins une partie de l'éducation primaire (CITE 1),,,,,1.0
+2021,Taux de scolarité,Indice de parité entre les sexes ajusté,Au moins une partie de l'éducation primaire (CITE 1),,,,,1.0
+2022,Taux de scolarité,Indice de parité entre les sexes ajusté,Au moins une partie de l'éducation primaire (CITE 1),,,,,1.0
+2023,Taux de scolarité,Indice de parité entre les sexes ajusté,Au moins une partie de l'éducation primaire (CITE 1),,,,,1.0
+2015,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation primaire ou supérieure,,,,,0.99
+2016,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation primaire ou supérieure,,,,,1.0
+2017,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation primaire ou supérieure,,,,,1.0
+2018,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation primaire ou supérieure,,,,,0.99
+2019,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation primaire ou supérieure,,,,,0.99
+2020,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation primaire ou supérieure,,,,,0.99
+2021,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation primaire ou supérieure,,,,,0.99
+2022,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation primaire ou supérieure,,,,,1.0
+2023,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation primaire ou supérieure,,,,,1.0
+2015,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation secondaire de premier cycle ou supérieure,,,,,0.99
+2016,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation secondaire de premier cycle ou supérieure,,,,,1.0
+2017,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation secondaire de premier cycle ou supérieure,,,,,1.0
+2018,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation secondaire de premier cycle ou supérieure,,,,,0.99
+2019,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation secondaire de premier cycle ou supérieure,,,,,0.99
+2020,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation secondaire de premier cycle ou supérieure,,,,,0.99
+2021,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation secondaire de premier cycle ou supérieure,,,,,0.99
+2022,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation secondaire de premier cycle ou supérieure,,,,,1.0
+2023,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation secondaire de premier cycle ou supérieure,,,,,1.0
+2015,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation secondaire de deuxième cycle ou supérieure,,,,,1.0
+2016,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation secondaire de deuxième cycle ou supérieure,,,,,1.01
+2017,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation secondaire de deuxième cycle ou supérieure,,,,,1.01
+2018,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation secondaire de deuxième cycle ou supérieure,,,,,1.01
+2019,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation secondaire de deuxième cycle ou supérieure,,,,,1.01
+2020,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation secondaire de deuxième cycle ou supérieure,,,,,1.01
+2021,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation secondaire de deuxième cycle ou supérieure,,,,,1.01
+2022,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation secondaire de deuxième cycle ou supérieure,,,,,1.01
+2023,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation secondaire de deuxième cycle ou supérieure,,,,,1.01
+2016,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation secondaire de deuxième cycle ou supérieure,,,Rural,,1.06
+2021,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation secondaire de deuxième cycle ou supérieure,,,Rural,,1.06
+2016,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation secondaire de deuxième cycle ou supérieure,,,Urbain,,1.0
+2021,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation secondaire de deuxième cycle ou supérieure,,,Urbain,,1.0
+2015,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation post-secondaire non tertiaire ou supérieure,,,,,1.0
+2016,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation post-secondaire non tertiaire ou supérieure,,,,,1.0
+2017,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation post-secondaire non tertiaire ou supérieure,,,,,1.02
+2018,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation post-secondaire non tertiaire ou supérieure,,,,,1.02
+2019,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation post-secondaire non tertiaire ou supérieure,,,,,1.02
+2020,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation post-secondaire non tertiaire ou supérieure,,,,,1.03
+2021,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation post-secondaire non tertiaire ou supérieure,,,,,1.02
+2022,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation post-secondaire non tertiaire ou supérieure,,,,,1.04
+2023,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation post-secondaire non tertiaire ou supérieure,,,,,1.03
+2016,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation post-secondaire non tertiaire ou supérieure,,,Rural,,1.03
+2021,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation post-secondaire non tertiaire ou supérieure,,,Rural,,1.05
+2016,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation post-secondaire non tertiaire ou supérieure,,,Urbain,,0.99
+2021,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation post-secondaire non tertiaire ou supérieure,,,Urbain,,1.01
+2015,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation tertiaire de cycle court ou supérieure,,,,,1.0
+2016,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation tertiaire de cycle court ou supérieure,,,,,1.16
+2017,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation tertiaire de cycle court ou supérieure,,,,,1.02
+2018,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation tertiaire de cycle court ou supérieure,,,,,1.02
+2019,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation tertiaire de cycle court ou supérieure,,,,,1.02
+2020,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation tertiaire de cycle court ou supérieure,,,,,1.03
+2021,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation tertiaire de cycle court ou supérieure,,,,,1.14
+2022,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation tertiaire de cycle court ou supérieure,,,,,1.04
+2023,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation tertiaire de cycle court ou supérieure,,,,,1.03
+2016,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation tertiaire de cycle court ou supérieure,,,Rural,,1.32
+2021,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation tertiaire de cycle court ou supérieure,,,Rural,,1.31
+2016,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation tertiaire de cycle court ou supérieure,,,Urbain,,1.12
+2021,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une éducation tertiaire de cycle court ou supérieure,,,Urbain,,1.11
+2015,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété un baccalauréat ou éducation équivalente ou supérieure,,,,,1.05
+2016,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété un baccalauréat ou éducation équivalente ou supérieure,,,,,1.07
+2017,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété un baccalauréat ou éducation équivalente ou supérieure,,,,,1.07
+2018,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété un baccalauréat ou éducation équivalente ou supérieure,,,,,1.07
+2019,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété un baccalauréat ou éducation équivalente ou supérieure,,,,,1.07
+2020,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété un baccalauréat ou éducation équivalente ou supérieure,,,,,1.08
+2021,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété un baccalauréat ou éducation équivalente ou supérieure,,,,,1.1
+2022,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété un baccalauréat ou éducation équivalente ou supérieure,,,,,1.09
+2023,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété un baccalauréat ou éducation équivalente ou supérieure,,,,,1.09
+2016,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété un baccalauréat ou éducation équivalente ou supérieure,,,Rural,,1.29
+2021,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété un baccalauréat ou éducation équivalente ou supérieure,,,Rural,,1.32
+2016,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété un baccalauréat ou éducation équivalente ou supérieure,,,Urbain,,1.04
+2021,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété un baccalauréat ou éducation équivalente ou supérieure,,,Urbain,,1.07
+2015,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une maîtrise ou éducation équivalente ou supérieure,,,,,0.92
+2016,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une maîtrise ou éducation équivalente ou supérieure,,,,,0.89
+2017,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une maîtrise ou éducation équivalente ou supérieure,,,,,0.92
+2018,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une maîtrise ou éducation équivalente ou supérieure,,,,,0.95
+2019,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une maîtrise ou éducation équivalente ou supérieure,,,,,0.96
+2020,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une maîtrise ou éducation équivalente ou supérieure,,,,,0.95
+2021,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une maîtrise ou éducation équivalente ou supérieure,,,,,0.97
+2022,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une maîtrise ou éducation équivalente ou supérieure,,,,,0.99
+2023,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une maîtrise ou éducation équivalente ou supérieure,,,,,1.04
+2016,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une maîtrise ou éducation équivalente ou supérieure,,,Rural,,1.05
+2021,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une maîtrise ou éducation équivalente ou supérieure,,,Rural,,1.17
+2016,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une maîtrise ou éducation équivalente ou supérieure,,,Urbain,,0.86
+2021,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété une maîtrise ou éducation équivalente ou supérieure,,,Urbain,,0.94
+2016,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété un doctorat ou éducation équivalente,,,,,0.56
+2021,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété un doctorat ou éducation équivalente,,,,,0.65
+2016,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété un doctorat ou éducation équivalente,,,Rural,,0.69
+2021,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété un doctorat ou éducation équivalente,,,Rural,,0.76
+2016,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété un doctorat ou éducation équivalente,,,Urbain,,0.55
+2021,Taux de scolarité,Indice de parité entre les sexes ajusté,A complété un doctorat ou éducation équivalente,,,Urbain,,0.63
+2016,Taux de scolarité,Indice de parité entre milieu urbain et rural ajusté,A complété une éducation secondaire de deuxième cycle ou supérieure,,,,,0.93
+2021,Taux de scolarité,Indice de parité entre milieu urbain et rural ajusté,A complété une éducation secondaire de deuxième cycle ou supérieure,,,,,0.94
+2016,Taux de scolarité,Indice de parité entre milieu urbain et rural ajusté,A complété une éducation secondaire de deuxième cycle ou supérieure,,Femme,,,0.95
+2021,Taux de scolarité,Indice de parité entre milieu urbain et rural ajusté,A complété une éducation secondaire de deuxième cycle ou supérieure,,Femme,,,0.96
+2016,Taux de scolarité,Indice de parité entre milieu urbain et rural ajusté,A complété une éducation secondaire de deuxième cycle ou supérieure,,Homme,,,0.9
+2021,Taux de scolarité,Indice de parité entre milieu urbain et rural ajusté,A complété une éducation secondaire de deuxième cycle ou supérieure,,Homme,,,0.91
+2016,Taux de scolarité,Indice de parité entre milieu urbain et rural ajusté,A complété une éducation post-secondaire non tertiaire ou supérieure,,,,,0.88
+2021,Taux de scolarité,Indice de parité entre milieu urbain et rural ajusté,A complété une éducation post-secondaire non tertiaire ou supérieure,,,,,0.86
+2016,Taux de scolarité,Indice de parité entre milieu urbain et rural ajusté,A complété une éducation post-secondaire non tertiaire ou supérieure,,Femme,,,0.89
+2021,Taux de scolarité,Indice de parité entre milieu urbain et rural ajusté,A complété une éducation post-secondaire non tertiaire ou supérieure,,Femme,,,0.88
+2016,Taux de scolarité,Indice de parité entre milieu urbain et rural ajusté,A complété une éducation post-secondaire non tertiaire ou supérieure,,Homme,,,0.86
+2021,Taux de scolarité,Indice de parité entre milieu urbain et rural ajusté,A complété une éducation post-secondaire non tertiaire ou supérieure,,Homme,,,0.85
+2016,Taux de scolarité,Indice de parité entre milieu urbain et rural ajusté,A complété une éducation tertiaire de cycle court ou supérieure,,,,,0.75
+2021,Taux de scolarité,Indice de parité entre milieu urbain et rural ajusté,A complété une éducation tertiaire de cycle court ou supérieure,,,,,0.71
+2016,Taux de scolarité,Indice de parité entre milieu urbain et rural ajusté,A complété une éducation tertiaire de cycle court ou supérieure,,Femme,,,0.84
+2021,Taux de scolarité,Indice de parité entre milieu urbain et rural ajusté,A complété une éducation tertiaire de cycle court ou supérieure,,Femme,,,0.8
+2016,Taux de scolarité,Indice de parité entre milieu urbain et rural ajusté,A complété une éducation tertiaire de cycle court ou supérieure,,Homme,,,0.65
+2021,Taux de scolarité,Indice de parité entre milieu urbain et rural ajusté,A complété une éducation tertiaire de cycle court ou supérieure,,Homme,,,0.62
+2016,Taux de scolarité,Indice de parité entre milieu urbain et rural ajusté,A complété un baccalauréat ou éducation équivalente ou supérieure,,,,,0.5
+2021,Taux de scolarité,Indice de parité entre milieu urbain et rural ajusté,A complété un baccalauréat ou éducation équivalente ou supérieure,,,,,0.5
+2016,Taux de scolarité,Indice de parité entre milieu urbain et rural ajusté,A complété un baccalauréat ou éducation équivalente ou supérieure,,Femme,,,0.57
+2021,Taux de scolarité,Indice de parité entre milieu urbain et rural ajusté,A complété un baccalauréat ou éducation équivalente ou supérieure,,Femme,,,0.58
+2016,Taux de scolarité,Indice de parité entre milieu urbain et rural ajusté,A complété un baccalauréat ou éducation équivalente ou supérieure,,Homme,,,0.42
+2021,Taux de scolarité,Indice de parité entre milieu urbain et rural ajusté,A complété un baccalauréat ou éducation équivalente ou supérieure,,Homme,,,0.42
+2016,Taux de scolarité,Indice de parité entre milieu urbain et rural ajusté,A complété une maîtrise ou éducation équivalente ou supérieure,,,,,0.42
+2021,Taux de scolarité,Indice de parité entre milieu urbain et rural ajusté,A complété une maîtrise ou éducation équivalente ou supérieure,,,,,0.42
+2016,Taux de scolarité,Indice de parité entre milieu urbain et rural ajusté,A complété une maîtrise ou éducation équivalente ou supérieure,,Femme,,,0.46
+2021,Taux de scolarité,Indice de parité entre milieu urbain et rural ajusté,A complété une maîtrise ou éducation équivalente ou supérieure,,Femme,,,0.47
+2016,Taux de scolarité,Indice de parité entre milieu urbain et rural ajusté,A complété une maîtrise ou éducation équivalente ou supérieure,,Homme,,,0.38
+2021,Taux de scolarité,Indice de parité entre milieu urbain et rural ajusté,A complété une maîtrise ou éducation équivalente ou supérieure,,Homme,,,0.37
+2016,Taux de scolarité,Indice de parité entre milieu urbain et rural ajusté,A complété un doctorat ou éducation équivalente,,,,,0.4
+2021,Taux de scolarité,Indice de parité entre milieu urbain et rural ajusté,A complété un doctorat ou éducation équivalente,,,,,0.39
+2016,Taux de scolarité,Indice de parité entre milieu urbain et rural ajusté,A complété un doctorat ou éducation équivalente,,Femme,,,0.45
+2021,Taux de scolarité,Indice de parité entre milieu urbain et rural ajusté,A complété un doctorat ou éducation équivalente,,Femme,,,0.43
+2016,Taux de scolarité,Indice de parité entre milieu urbain et rural ajusté,A complété un doctorat ou éducation équivalente,,Homme,,,0.36
+2021,Taux de scolarité,Indice de parité entre milieu urbain et rural ajusté,A complété un doctorat ou éducation équivalente,,Homme,,,0.36
+2015,Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois,Indice de parité entre les sexes ajusté,,15-24 years old,,,,1.1
+2016,Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois,Indice de parité entre les sexes ajusté,,15-24 years old,,,,1.1
+2017,Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois,Indice de parité entre les sexes ajusté,,15-24 years old,,,,1.1
+2018,Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois,Indice de parité entre les sexes ajusté,,15-24 years old,,,,1.1
+2019,Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois,Indice de parité entre les sexes ajusté,,15-24 years old,,,,1.11
+2020,Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois,Indice de parité entre les sexes ajusté,,15-24 years old,,,,1.14
+2021,Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois,Indice de parité entre les sexes ajusté,,15-24 years old,,,,1.14
+2022,Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois,Indice de parité entre les sexes ajusté,,15-24 years old,,,,1.14
+2023,Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois,Indice de parité entre les sexes ajusté,,15-24 years old,,,,1.12
+2015,Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois,Indice de parité entre les sexes ajusté,,15-64 years old,,,,1.12
+2016,Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois,Indice de parité entre les sexes ajusté,,15-64 years old,,,,1.11
+2017,Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois,Indice de parité entre les sexes ajusté,,15-64 years old,,,,1.12
+2018,Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois,Indice de parité entre les sexes ajusté,,15-64 years old,,,,1.13
+2019,Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois,Indice de parité entre les sexes ajusté,,15-64 years old,,,,1.12
+2020,Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois,Indice de parité entre les sexes ajusté,,15-64 years old,,,,1.15
+2021,Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois,Indice de parité entre les sexes ajusté,,15-64 years old,,,,1.18
+2022,Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois,Indice de parité entre les sexes ajusté,,15-64 years old,,,,1.17
+2023,Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois,Indice de parité entre les sexes ajusté,,15-64 years old,,,,1.14
+2015,Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois,Indice de parité entre les sexes ajusté,,25-54 years old,,,,1.28
+2016,Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois,Indice de parité entre les sexes ajusté,,25-54 years old,,,,1.27
+2017,Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois,Indice de parité entre les sexes ajusté,,25-54 years old,,,,1.28
+2018,Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois,Indice de parité entre les sexes ajusté,,25-54 years old,,,,1.32
+2019,Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois,Indice de parité entre les sexes ajusté,,25-54 years old,,,,1.29
+2020,Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois,Indice de parité entre les sexes ajusté,,25-54 years old,,,,1.31
+2021,Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois,Indice de parité entre les sexes ajusté,,25-54 years old,,,,1.38
+2022,Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois,Indice de parité entre les sexes ajusté,,25-54 years old,,,,1.37
+2023,Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois,Indice de parité entre les sexes ajusté,,25-54 years old,,,,1.32
+2015,Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois,Indice de parité entre les sexes ajusté,,55-64 years old,,,,1.38
+2016,Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois,Indice de parité entre les sexes ajusté,,55-64 years old,,,,1.43
+2017,Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois,Indice de parité entre les sexes ajusté,,55-64 years old,,,,1.25
+2018,Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois,Indice de parité entre les sexes ajusté,,55-64 years old,,,,1.36
+2019,Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois,Indice de parité entre les sexes ajusté,,55-64 years old,,,,1.23
+2020,Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois,Indice de parité entre les sexes ajusté,,55-64 years old,,,,1.39
+2021,Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois,Indice de parité entre les sexes ajusté,,55-64 years old,,,,1.12
+2022,Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois,Indice de parité entre les sexes ajusté,,55-64 years old,,,,1.17
+2023,Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois,Indice de parité entre les sexes ajusté,,55-64 years old,,,,1.44
+2015,Proportion d'élèves atteignant au moins un niveau minimum de compétence en mathématiques,Indice de parité entre les sexes ajusté,Éducation primaire,,,,,0.95
+2019,Proportion d'élèves atteignant au moins un niveau minimum de compétence en mathématiques,Indice de parité entre les sexes ajusté,Éducation primaire,,,,,1.11
+2015,Proportion d'élèves atteignant au moins un niveau minimum de compétence en mathématiques,Indice de parité entre les sexes ajusté,Éducation secondaire de premier cycle,,,,,0.99
+2018,Proportion d'élèves atteignant au moins un niveau minimum de compétence en mathématiques,Indice de parité entre les sexes ajusté,Éducation secondaire de premier cycle,,,,,1.0
+2022,Proportion d'élèves atteignant au moins un niveau minimum de compétence en mathématiques,Indice de parité entre les sexes ajusté,Éducation secondaire de premier cycle,,,,,0.99
+2015,Proportion d'élèves atteignant au moins un niveau minimum de compétence en mathématiques,Indice de parité entre milieu urbain et rural ajusté,Éducation primaire,,,,,0.84
+2019,Proportion d'élèves atteignant au moins un niveau minimum de compétence en mathématiques,Indice de parité entre milieu urbain et rural ajusté,Éducation primaire,,,,,0.86
+2018,Proportion d'élèves atteignant au moins un niveau minimum de compétence en mathématiques,Indice de parité entre milieu urbain et rural ajusté,Éducation secondaire de premier cycle,,,,,0.92
+2015,Proportion d'élèves atteignant au moins un niveau minimum de compétence en mathématiques,Indice de parité de richesse ajusté,Éducation primaire,,,,,0.7
+2019,Proportion d'élèves atteignant au moins un niveau minimum de compétence en mathématiques,Indice de parité de richesse ajusté,Éducation primaire,,,,,0.73
+2015,Proportion d'élèves atteignant au moins un niveau minimum de compétence en mathématiques,Indice de parité de richesse ajusté,Éducation secondaire de premier cycle,,,,,0.82
+2018,Proportion d'élèves atteignant au moins un niveau minimum de compétence en mathématiques,Indice de parité de richesse ajusté,Éducation secondaire de premier cycle,,,,,0.81
+2022,Proportion d'élèves atteignant au moins un niveau minimum de compétence en mathématiques,Indice de parité de richesse ajusté,Éducation secondaire de premier cycle,,,,,0.62
+2016,Proportion d'élèves atteignant au moins un niveau minimum de compétence en lecture,Indice de parité entre les sexes ajusté,Éducation primaire,,,,,1.01
+2021,Proportion d'élèves atteignant au moins un niveau minimum de compétence en lecture,Indice de parité entre les sexes ajusté,Éducation primaire,,,,,1.01
+2015,Proportion d'élèves atteignant au moins un niveau minimum de compétence en lecture,Indice de parité entre les sexes ajusté,Éducation secondaire de premier cycle,,,,,1.07
+2018,Proportion d'élèves atteignant au moins un niveau minimum de compétence en lecture,Indice de parité entre les sexes ajusté,Éducation secondaire de premier cycle,,,,,1.09
+2022,Proportion d'élèves atteignant au moins un niveau minimum de compétence en lecture,Indice de parité entre les sexes ajusté,Éducation secondaire de premier cycle,,,,,1.09
+2016,Proportion d'élèves atteignant au moins un niveau minimum de compétence en lecture,Indice de parité entre milieu urbain et rural ajusté,Éducation primaire,,,,,0.84
+2021,Proportion d'élèves atteignant au moins un niveau minimum de compétence en lecture,Indice de parité entre milieu urbain et rural ajusté,Éducation primaire,,,,,1.0
+2018,Proportion d'élèves atteignant au moins un niveau minimum de compétence en lecture,Indice de parité entre milieu urbain et rural ajusté,Éducation secondaire de premier cycle,,,,,0.91
+2016,Proportion d'élèves atteignant au moins un niveau minimum de compétence en lecture,Indice de parité de richesse ajusté,Éducation primaire,,,,,0.89
+2021,Proportion d'élèves atteignant au moins un niveau minimum de compétence en lecture,Indice de parité de richesse ajusté,Éducation primaire,,,,,0.98
+2015,Proportion d'élèves atteignant au moins un niveau minimum de compétence en lecture,Indice de parité de richesse ajusté,Éducation secondaire de premier cycle,,,,,0.86
+2018,Proportion d'élèves atteignant au moins un niveau minimum de compétence en lecture,Indice de parité de richesse ajusté,Éducation secondaire de premier cycle,,,,,0.85
+2022,Proportion d'élèves atteignant au moins un niveau minimum de compétence en lecture,Indice de parité de richesse ajusté,Éducation secondaire de premier cycle,,,,,0.7

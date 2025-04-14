@@ -1,0 +1,96 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Année"
+          },
+          {
+            "name": "Household income quintile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tous les quintiles",
+                "Quintile inférieur",
+                "Deuxième quintile",
+                ""
+              ]
+            },
+            "title": "Quintile de revenu du ménage"
+          },
+          {
+            "name": "Household income decile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total des déciles",
+                "Décile inférieur",
+                "Deuxième décile",
+                "Troisième décile",
+                "Quatrième décile",
+                ""
+              ]
+            },
+            "title": "Décile de revenu du ménage"
+          },
+          {
+            "name": "Geography",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Canada",
+                "Terre-Neuve-et-Labrador",
+                "Île-du-Prince-Édouard",
+                "Nouvelle-Écosse",
+                "Nouveau-Brunswick",
+                "Québec",
+                "Ontario",
+                "Manitoba",
+                "Saskatchewan",
+                "Alberta",
+                "Colombie-Britannique",
+                ""
+              ]
+            },
+            "title": "Géographie"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Dépenses des ménages par habitant",
+                "Revenu par habitant",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valeur"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-1-1",
+  "title": "Taux de croissance des dépenses des ménages ou du revenu par habitant pour les 40 pour cent de la population les plus pauvres et pour l’ensemble de la population"
+}

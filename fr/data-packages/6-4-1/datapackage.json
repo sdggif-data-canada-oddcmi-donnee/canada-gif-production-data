@@ -1,0 +1,67 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Variation en pourcentage de l'efficacité de l'utilisation des ressources en eau au fil du temps (%)",
+                "Efficacité de l'utilisation des ressources en eau (USD par mètre cube)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Variation en pourcentage (%)",
+                "Dollars américains par mètre cube",
+                ""
+              ]
+            },
+            "title": "Unités"
+          },
+          {
+            "name": "Economic activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Services",
+                "Industrie",
+                "Agriculture, sylviculture et pêche",
+                ""
+              ]
+            },
+            "title": "Activité économique"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valeur"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-4-1",
+  "title": "Variation de l’efficacité de l’utilisation des ressources en eau"
+}

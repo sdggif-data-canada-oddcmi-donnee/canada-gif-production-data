@@ -1,0 +1,412 @@
+Year,Taux d'obtention du diplôme,Géographie,Genre,GeoCode,Value
+2016/2017,,,,,87
+2017/2018,,,,,88
+2018/2019,,,,,89
+2019/2020,,,,,89
+2020/2021,,,,,89
+2021/2022,,,,,91
+2016/2017,Délai prévu,Canada,Total,,80
+2016/2017,Délai prévu,Canada,Homme,,76
+2016/2017,Délai prévu,Canada,Femme,,84
+2016/2017,Délai plus long,Canada,Homme,,85
+2016/2017,Délai plus long,Canada,Femme,,91
+2016/2017,Délai prévu,Terre-Neuve-et-Labrador,Total,10,88
+2016/2017,Délai prévu,Terre-Neuve-et-Labrador,Homme,10,87
+2016/2017,Délai prévu,Terre-Neuve-et-Labrador,Femme,10,90
+2016/2017,Délai plus long,Terre-Neuve-et-Labrador,Total,10,90
+2016/2017,Délai plus long,Terre-Neuve-et-Labrador,Homme,10,88
+2016/2017,Délai plus long,Terre-Neuve-et-Labrador,Femme,10,91
+2016/2017,Délai prévu,Île-du-Prince-Édouard,Total,11,85
+2016/2017,Délai prévu,Île-du-Prince-Édouard,Homme,11,84
+2016/2017,Délai prévu,Île-du-Prince-Édouard,Femme,11,86
+2016/2017,Délai plus long,Île-du-Prince-Édouard,Total,11,90
+2016/2017,Délai plus long,Île-du-Prince-Édouard,Homme,11,89
+2016/2017,Délai plus long,Île-du-Prince-Édouard,Femme,11,90
+2016/2017,Délai prévu,Nouveau-Brunswick,Total,13,85
+2016/2017,Délai prévu,Nouveau-Brunswick,Homme,13,82
+2016/2017,Délai prévu,Nouveau-Brunswick,Femme,13,88
+2016/2017,Délai plus long,Nouveau-Brunswick,Total,13,85
+2016/2017,Délai plus long,Nouveau-Brunswick,Homme,13,82
+2016/2017,Délai plus long,Nouveau-Brunswick,Femme,13,88
+2016/2017,Délai prévu,Québec,Total,24,74
+2016/2017,Délai prévu,Québec,Homme,24,69
+2016/2017,Délai prévu,Québec,Femme,24,80
+2016/2017,Délai plus long,Québec,Total,24,82
+2016/2017,Délai plus long,Québec,Homme,24,78
+2016/2017,Délai plus long,Québec,Femme,24,89
+2016/2017,Délai prévu,Ontario,Total,35,82
+2016/2017,Délai prévu,Ontario,Homme,35,79
+2016/2017,Délai prévu,Ontario,Femme,35,86
+2016/2017,Délai plus long,Ontario,Total,35,92
+2016/2017,Délai plus long,Ontario,Homme,35,89
+2016/2017,Délai plus long,Ontario,Femme,35,94
+2016/2017,Délai prévu,Manitoba,Total,46,82
+2016/2017,Délai prévu,Manitoba,Homme,46,79
+2016/2017,Délai prévu,Manitoba,Femme,46,85
+2016/2017,Délai plus long,Manitoba,Total,46,87
+2016/2017,Délai plus long,Manitoba,Homme,46,85
+2016/2017,Délai plus long,Manitoba,Femme,46,89
+2016/2017,Délai prévu,Saskatchewan,Total,47,78
+2016/2017,Délai prévu,Saskatchewan,Homme,47,76
+2016/2017,Délai prévu,Saskatchewan,Femme,47,81
+2016/2017,Délai plus long,Saskatchewan,Total,47,85
+2016/2017,Délai plus long,Saskatchewan,Homme,47,82
+2016/2017,Délai plus long,Saskatchewan,Femme,47,88
+2016/2017,Délai prévu,Alberta,Total,48,78
+2016/2017,Délai prévu,Alberta,Homme,48,76
+2016/2017,Délai prévu,Alberta,Femme,48,81
+2016/2017,Délai plus long,Alberta,Total,48,84
+2016/2017,Délai plus long,Alberta,Homme,48,82
+2016/2017,Délai plus long,Alberta,Femme,48,86
+2016/2017,Délai prévu,Colombie-Britannique,Total,59,81
+2016/2017,Délai prévu,Colombie-Britannique,Homme,59,79
+2016/2017,Délai prévu,Colombie-Britannique,Femme,59,83
+2016/2017,Délai plus long,Colombie-Britannique,Total,59,88
+2016/2017,Délai plus long,Colombie-Britannique,Homme,59,86
+2016/2017,Délai plus long,Colombie-Britannique,Femme,59,90
+2016/2017,Délai prévu,Territoires du Nord-Ouest,Total,61,54
+2016/2017,Délai prévu,Territoires du Nord-Ouest,Homme,61,52
+2016/2017,Délai prévu,Territoires du Nord-Ouest,Femme,61,54
+2016/2017,Délai prévu,Nunavut,Total,62,47
+2016/2017,Délai prévu,Nunavut,Homme,62,44
+2016/2017,Délai prévu,Nunavut,Femme,62,50
+2017/2018,Délai prévu,Canada,Total,,81
+2017/2018,Délai prévu,Canada,Homme,,77
+2017/2018,Délai prévu,Canada,Femme,,84
+2017/2018,Délai plus long,Canada,Homme,,86
+2017/2018,Délai plus long,Canada,Femme,,91
+2017/2018,Délai prévu,Terre-Neuve-et-Labrador,Total,10,88
+2017/2018,Délai prévu,Terre-Neuve-et-Labrador,Homme,10,86
+2017/2018,Délai prévu,Terre-Neuve-et-Labrador,Femme,10,89
+2017/2018,Délai plus long,Terre-Neuve-et-Labrador,Total,10,92
+2017/2018,Délai plus long,Terre-Neuve-et-Labrador,Homme,10,92
+2017/2018,Délai plus long,Terre-Neuve-et-Labrador,Femme,10,93
+2017/2018,Délai prévu,Île-du-Prince-Édouard,Total,11,87
+2017/2018,Délai prévu,Île-du-Prince-Édouard,Homme,11,84
+2017/2018,Délai prévu,Île-du-Prince-Édouard,Femme,11,91
+2017/2018,Délai plus long,Île-du-Prince-Édouard,Total,11,89
+2017/2018,Délai plus long,Île-du-Prince-Édouard,Homme,11,86
+2017/2018,Délai plus long,Île-du-Prince-Édouard,Femme,11,92
+2017/2018,Délai prévu,Nouvelle-Écosse,Total,12,87
+2017/2018,Délai prévu,Nouvelle-Écosse,Homme,12,86
+2017/2018,Délai prévu,Nouvelle-Écosse,Femme,12,88
+2017/2018,Délai plus long,Nouvelle-Écosse,Total,12,90
+2017/2018,Délai plus long,Nouvelle-Écosse,Homme,12,88
+2017/2018,Délai plus long,Nouvelle-Écosse,Femme,12,92
+2017/2018,Délai prévu,Nouveau-Brunswick,Total,13,86
+2017/2018,Délai prévu,Nouveau-Brunswick,Homme,13,83
+2017/2018,Délai prévu,Nouveau-Brunswick,Femme,13,89
+2017/2018,Délai plus long,Nouveau-Brunswick,Total,13,90
+2017/2018,Délai plus long,Nouveau-Brunswick,Homme,13,88
+2017/2018,Délai plus long,Nouveau-Brunswick,Femme,13,92
+2017/2018,Délai prévu,Québec,Total,24,75
+2017/2018,Délai prévu,Québec,Homme,24,70
+2017/2018,Délai prévu,Québec,Femme,24,81
+2017/2018,Délai plus long,Québec,Total,24,84
+2017/2018,Délai plus long,Québec,Homme,24,80
+2017/2018,Délai plus long,Québec,Femme,24,88
+2017/2018,Délai prévu,Ontario,Total,35,82
+2017/2018,Délai prévu,Ontario,Homme,35,79
+2017/2018,Délai prévu,Ontario,Femme,35,86
+2017/2018,Délai plus long,Ontario,Total,35,91
+2017/2018,Délai plus long,Ontario,Homme,35,89
+2017/2018,Délai plus long,Ontario,Femme,35,94
+2017/2018,Délai prévu,Manitoba,Total,46,83
+2017/2018,Délai prévu,Manitoba,Homme,46,80
+2017/2018,Délai prévu,Manitoba,Femme,46,85
+2017/2018,Délai plus long,Manitoba,Total,46,87
+2017/2018,Délai plus long,Manitoba,Homme,46,85
+2017/2018,Délai plus long,Manitoba,Femme,46,89
+2017/2018,Délai prévu,Saskatchewan,Total,47,79
+2017/2018,Délai prévu,Saskatchewan,Homme,47,76
+2017/2018,Délai prévu,Saskatchewan,Femme,47,82
+2017/2018,Délai plus long,Saskatchewan,Total,47,84
+2017/2018,Délai plus long,Saskatchewan,Homme,47,82
+2017/2018,Délai plus long,Saskatchewan,Femme,47,86
+2017/2018,Délai prévu,Alberta,Total,48,80
+2017/2018,Délai prévu,Alberta,Homme,48,78
+2017/2018,Délai prévu,Alberta,Femme,48,82
+2017/2018,Délai plus long,Alberta,Total,48,86
+2017/2018,Délai plus long,Alberta,Homme,48,84
+2017/2018,Délai plus long,Alberta,Femme,48,88
+2017/2018,Délai prévu,Colombie-Britannique,Total,59,81
+2017/2018,Délai prévu,Colombie-Britannique,Homme,59,78
+2017/2018,Délai prévu,Colombie-Britannique,Femme,59,83
+2017/2018,Délai plus long,Colombie-Britannique,Total,59,88
+2017/2018,Délai plus long,Colombie-Britannique,Homme,59,86
+2017/2018,Délai plus long,Colombie-Britannique,Femme,59,90
+2017/2018,Délai prévu,Territoires du Nord-Ouest,Total,61,51
+2017/2018,Délai prévu,Territoires du Nord-Ouest,Homme,61,45
+2017/2018,Délai prévu,Territoires du Nord-Ouest,Femme,61,58
+2018/2019,Délai prévu,Canada,Total,,81
+2018/2019,Délai prévu,Canada,Homme,,77
+2018/2019,Délai prévu,Canada,Femme,,85
+2018/2019,Délai plus long,Canada,Homme,,86
+2018/2019,Délai plus long,Canada,Femme,,91
+2018/2019,Délai prévu,Terre-Neuve-et-Labrador,Total,10,89
+2018/2019,Délai prévu,Terre-Neuve-et-Labrador,Homme,10,87
+2018/2019,Délai prévu,Terre-Neuve-et-Labrador,Femme,10,91
+2018/2019,Délai plus long,Terre-Neuve-et-Labrador,Total,10,92
+2018/2019,Délai plus long,Terre-Neuve-et-Labrador,Homme,10,90
+2018/2019,Délai plus long,Terre-Neuve-et-Labrador,Femme,10,93
+2018/2019,Délai prévu,Île-du-Prince-Édouard,Total,11,89
+2018/2019,Délai prévu,Île-du-Prince-Édouard,Homme,11,88
+2018/2019,Délai prévu,Île-du-Prince-Édouard,Femme,11,90
+2018/2019,Délai plus long,Île-du-Prince-Édouard,Total,11,91
+2018/2019,Délai plus long,Île-du-Prince-Édouard,Homme,11,89
+2018/2019,Délai plus long,Île-du-Prince-Édouard,Femme,11,92
+2018/2019,Délai prévu,Nouvelle-Écosse,Total,12,86
+2018/2019,Délai prévu,Nouvelle-Écosse,Homme,12,86
+2018/2019,Délai prévu,Nouvelle-Écosse,Femme,12,87
+2018/2019,Délai plus long,Nouvelle-Écosse,Total,12,90
+2018/2019,Délai plus long,Nouvelle-Écosse,Homme,12,89
+2018/2019,Délai plus long,Nouvelle-Écosse,Femme,12,92
+2018/2019,Délai prévu,Nouveau-Brunswick,Total,13,85
+2018/2019,Délai prévu,Nouveau-Brunswick,Homme,13,83
+2018/2019,Délai prévu,Nouveau-Brunswick,Femme,13,88
+2018/2019,Délai plus long,Nouveau-Brunswick,Total,13,89
+2018/2019,Délai plus long,Nouveau-Brunswick,Homme,13,88
+2018/2019,Délai plus long,Nouveau-Brunswick,Femme,13,90
+2018/2019,Délai prévu,Québec,Total,24,75
+2018/2019,Délai prévu,Québec,Homme,24,69
+2018/2019,Délai prévu,Québec,Femme,24,81
+2018/2019,Délai plus long,Québec,Total,24,84
+2018/2019,Délai plus long,Québec,Homme,24,79
+2018/2019,Délai plus long,Québec,Femme,24,88
+2018/2019,Délai prévu,Ontario,Total,35,83
+2018/2019,Délai prévu,Ontario,Homme,35,80
+2018/2019,Délai prévu,Ontario,Femme,35,87
+2018/2019,Délai plus long,Ontario,Total,35,92
+2018/2019,Délai plus long,Ontario,Homme,35,90
+2018/2019,Délai plus long,Ontario,Femme,35,94
+2018/2019,Délai prévu,Manitoba,Total,46,82
+2018/2019,Délai prévu,Manitoba,Homme,46,79
+2018/2019,Délai prévu,Manitoba,Femme,46,86
+2018/2019,Délai plus long,Manitoba,Total,46,88
+2018/2019,Délai plus long,Manitoba,Homme,46,86
+2018/2019,Délai plus long,Manitoba,Femme,46,90
+2018/2019,Délai prévu,Saskatchewan,Total,47,80
+2018/2019,Délai prévu,Saskatchewan,Homme,47,77
+2018/2019,Délai prévu,Saskatchewan,Femme,47,82
+2018/2019,Délai plus long,Saskatchewan,Total,47,86
+2018/2019,Délai plus long,Saskatchewan,Homme,47,84
+2018/2019,Délai plus long,Saskatchewan,Femme,47,88
+2018/2019,Délai prévu,Alberta,Total,48,80
+2018/2019,Délai prévu,Alberta,Homme,48,78
+2018/2019,Délai prévu,Alberta,Femme,48,83
+2018/2019,Délai plus long,Alberta,Total,48,86
+2018/2019,Délai plus long,Alberta,Homme,48,84
+2018/2019,Délai plus long,Alberta,Femme,48,88
+2018/2019,Délai prévu,Colombie-Britannique,Total,59,81
+2018/2019,Délai prévu,Colombie-Britannique,Homme,59,79
+2018/2019,Délai prévu,Colombie-Britannique,Femme,59,84
+2018/2019,Délai plus long,Colombie-Britannique,Total,59,89
+2018/2019,Délai plus long,Colombie-Britannique,Homme,59,87
+2018/2019,Délai plus long,Colombie-Britannique,Femme,59,90
+2018/2019,Délai prévu,Territoires du Nord-Ouest,Total,61,49
+2018/2019,Délai prévu,Territoires du Nord-Ouest,Homme,61,42
+2018/2019,Délai prévu,Territoires du Nord-Ouest,Femme,61,56
+2019/2020,Délai prévu,Canada,Total,,84
+2019/2020,Délai prévu,Canada,Homme,,81
+2019/2020,Délai prévu,Canada,Femme,,87
+2019/2020,Délai plus long,Canada,Homme,,86
+2019/2020,Délai plus long,Canada,Femme,,91
+2019/2020,Délai prévu,Terre-Neuve-et-Labrador,Total,10,94
+2019/2020,Délai prévu,Terre-Neuve-et-Labrador,Homme,10,94
+2019/2020,Délai prévu,Terre-Neuve-et-Labrador,Femme,10,95
+2019/2020,Délai plus long,Terre-Neuve-et-Labrador,Total,10,92
+2019/2020,Délai plus long,Terre-Neuve-et-Labrador,Homme,10,90
+2019/2020,Délai plus long,Terre-Neuve-et-Labrador,Femme,10,94
+2019/2020,Délai prévu,Île-du-Prince-Édouard,Total,11,92
+2019/2020,Délai prévu,Île-du-Prince-Édouard,Homme,11,90
+2019/2020,Délai prévu,Île-du-Prince-Édouard,Femme,11,94
+2019/2020,Délai plus long,Île-du-Prince-Édouard,Total,11,91
+2019/2020,Délai plus long,Île-du-Prince-Édouard,Homme,11,89
+2019/2020,Délai plus long,Île-du-Prince-Édouard,Femme,11,94
+2019/2020,Délai prévu,Nouvelle-Écosse,Total,12,92
+2019/2020,Délai prévu,Nouvelle-Écosse,Homme,12,91
+2019/2020,Délai prévu,Nouvelle-Écosse,Femme,12,93
+2019/2020,Délai plus long,Nouvelle-Écosse,Total,12,91
+2019/2020,Délai plus long,Nouvelle-Écosse,Homme,12,90
+2019/2020,Délai plus long,Nouvelle-Écosse,Femme,12,92
+2019/2020,Délai prévu,Nouveau-Brunswick,Total,13,87
+2019/2020,Délai prévu,Nouveau-Brunswick,Homme,13,86
+2019/2020,Délai prévu,Nouveau-Brunswick,Femme,13,89
+2019/2020,Délai plus long,Nouveau-Brunswick,Total,13,89
+2019/2020,Délai plus long,Nouveau-Brunswick,Homme,13,88
+2019/2020,Délai plus long,Nouveau-Brunswick,Femme,13,91
+2019/2020,Délai prévu,Québec,Total,24,79
+2019/2020,Délai prévu,Québec,Homme,24,74
+2019/2020,Délai prévu,Québec,Femme,24,84
+2019/2020,Délai plus long,Québec,Total,24,83
+2019/2020,Délai plus long,Québec,Homme,24,80
+2019/2020,Délai plus long,Québec,Femme,24,87
+2019/2020,Délai prévu,Ontario,Total,35,86
+2019/2020,Délai prévu,Ontario,Homme,35,83
+2019/2020,Délai prévu,Ontario,Femme,35,89
+2019/2020,Délai plus long,Ontario,Total,35,92
+2019/2020,Délai plus long,Ontario,Homme,35,90
+2019/2020,Délai plus long,Ontario,Femme,35,94
+2019/2020,Délai prévu,Manitoba,Total,46,82
+2019/2020,Délai prévu,Manitoba,Homme,46,80
+2019/2020,Délai prévu,Manitoba,Femme,46,84
+2019/2020,Délai plus long,Manitoba,Total,46,87
+2019/2020,Délai plus long,Manitoba,Homme,46,86
+2019/2020,Délai plus long,Manitoba,Femme,46,89
+2019/2020,Délai prévu,Saskatchewan,Total,47,85
+2019/2020,Délai prévu,Saskatchewan,Homme,47,83
+2019/2020,Délai prévu,Saskatchewan,Femme,47,87
+2019/2020,Délai plus long,Saskatchewan,Total,47,88
+2019/2020,Délai plus long,Saskatchewan,Homme,47,85
+2019/2020,Délai plus long,Saskatchewan,Femme,47,90
+2019/2020,Délai prévu,Alberta,Total,48,84
+2019/2020,Délai prévu,Alberta,Homme,48,82
+2019/2020,Délai prévu,Alberta,Femme,48,87
+2019/2020,Délai plus long,Alberta,Total,48,87
+2019/2020,Délai plus long,Alberta,Homme,48,85
+2019/2020,Délai plus long,Alberta,Femme,48,89
+2019/2020,Délai prévu,Colombie-Britannique,Total,59,84
+2019/2020,Délai prévu,Colombie-Britannique,Homme,59,82
+2019/2020,Délai prévu,Colombie-Britannique,Femme,59,85
+2019/2020,Délai plus long,Colombie-Britannique,Total,59,89
+2019/2020,Délai plus long,Colombie-Britannique,Homme,59,87
+2019/2020,Délai plus long,Colombie-Britannique,Femme,59,91
+2019/2020,Délai prévu,Territoires du Nord-Ouest,Total,61,46
+2019/2020,Délai prévu,Territoires du Nord-Ouest,Homme,61,40
+2019/2020,Délai prévu,Territoires du Nord-Ouest,Femme,61,46
+2020/2021,Délai prévu,Canada,Total,,84
+2020/2021,Délai prévu,Canada,Homme,,81
+2020/2021,Délai prévu,Canada,Femme,,87
+2020/2021,Délai plus long,Canada,Homme,,87
+2020/2021,Délai plus long,Canada,Femme,,92
+2020/2021,Délai prévu,Terre-Neuve-et-Labrador,Total,10,89
+2020/2021,Délai prévu,Terre-Neuve-et-Labrador,Homme,10,87
+2020/2021,Délai prévu,Terre-Neuve-et-Labrador,Femme,10,91
+2020/2021,Délai plus long,Terre-Neuve-et-Labrador,Total,10,94
+2020/2021,Délai plus long,Terre-Neuve-et-Labrador,Homme,10,93
+2020/2021,Délai plus long,Terre-Neuve-et-Labrador,Femme,10,96
+2020/2021,Délai prévu,Île-du-Prince-Édouard,Total,11,92
+2020/2021,Délai prévu,Île-du-Prince-Édouard,Homme,11,93
+2020/2021,Délai prévu,Île-du-Prince-Édouard,Femme,11,92
+2020/2021,Délai plus long,Île-du-Prince-Édouard,Total,11,93
+2020/2021,Délai plus long,Île-du-Prince-Édouard,Homme,11,93
+2020/2021,Délai plus long,Île-du-Prince-Édouard,Femme,11,93
+2020/2021,Délai prévu,Nouvelle-Écosse,Total,12,87
+2020/2021,Délai prévu,Nouvelle-Écosse,Homme,12,86
+2020/2021,Délai prévu,Nouvelle-Écosse,Femme,12,88
+2020/2021,Délai plus long,Nouvelle-Écosse,Total,12,92
+2020/2021,Délai plus long,Nouvelle-Écosse,Homme,12,92
+2020/2021,Délai plus long,Nouvelle-Écosse,Femme,12,92
+2020/2021,Délai prévu,Nouveau-Brunswick,Total,13,87
+2020/2021,Délai prévu,Nouveau-Brunswick,Homme,13,87
+2020/2021,Délai prévu,Nouveau-Brunswick,Femme,13,87
+2020/2021,Délai plus long,Nouveau-Brunswick,Total,13,87
+2020/2021,Délai plus long,Nouveau-Brunswick,Homme,13,84
+2020/2021,Délai plus long,Nouveau-Brunswick,Femme,13,89
+2020/2021,Délai prévu,Québec,Total,24,80
+2020/2021,Délai prévu,Québec,Homme,24,75
+2020/2021,Délai prévu,Québec,Femme,24,86
+2020/2021,Délai plus long,Québec,Total,24,83
+2020/2021,Délai plus long,Québec,Homme,24,79
+2020/2021,Délai plus long,Québec,Femme,24,88
+2020/2021,Délai prévu,Ontario,Total,35,85
+2020/2021,Délai prévu,Ontario,Homme,35,82
+2020/2021,Délai prévu,Ontario,Femme,35,88
+2020/2021,Délai plus long,Ontario,Total,35,93
+2020/2021,Délai plus long,Ontario,Homme,35,91
+2020/2021,Délai plus long,Ontario,Femme,35,94
+2020/2021,Délai prévu,Manitoba,Total,46,85
+2020/2021,Délai prévu,Manitoba,Homme,46,83
+2020/2021,Délai prévu,Manitoba,Femme,46,87
+2020/2021,Délai plus long,Manitoba,Total,46,89
+2020/2021,Délai plus long,Manitoba,Homme,46,87
+2020/2021,Délai plus long,Manitoba,Femme,46,91
+2020/2021,Délai prévu,Saskatchewan,Total,47,83
+2020/2021,Délai prévu,Saskatchewan,Homme,47,82
+2020/2021,Délai prévu,Saskatchewan,Femme,47,84
+2020/2021,Délai plus long,Saskatchewan,Total,47,89
+2020/2021,Délai plus long,Saskatchewan,Homme,47,87
+2020/2021,Délai plus long,Saskatchewan,Femme,47,92
+2020/2021,Délai prévu,Alberta,Total,48,84
+2020/2021,Délai prévu,Alberta,Homme,48,82
+2020/2021,Délai prévu,Alberta,Femme,48,86
+2020/2021,Délai plus long,Alberta,Total,48,88
+2020/2021,Délai plus long,Alberta,Homme,48,86
+2020/2021,Délai plus long,Alberta,Femme,48,90
+2020/2021,Délai prévu,Colombie-Britannique,Total,59,83
+2020/2021,Délai prévu,Colombie-Britannique,Homme,59,82
+2020/2021,Délai prévu,Colombie-Britannique,Femme,59,84
+2020/2021,Délai plus long,Colombie-Britannique,Total,59,89
+2020/2021,Délai plus long,Colombie-Britannique,Homme,59,88
+2020/2021,Délai plus long,Colombie-Britannique,Femme,59,91
+2020/2021,Délai plus long,Territoires du Nord-Ouest,Total,61,51
+2020/2021,Délai plus long,Territoires du Nord-Ouest,Homme,61,44
+2020/2021,Délai plus long,Territoires du Nord-Ouest,Femme,61,57
+2021/2022,Délai prévu,Canada,Total,,84
+2021/2022,Délai prévu,Canada,Homme,,81
+2021/2022,Délai prévu,Canada,Femme,,86
+2021/2022,Délai plus long,Canada,Homme,,89
+2021/2022,Délai plus long,Canada,Femme,,93
+2021/2022,Délai prévu,Terre-Neuve-et-Labrador,Total,10,89
+2021/2022,Délai prévu,Terre-Neuve-et-Labrador,Homme,10,88
+2021/2022,Délai prévu,Terre-Neuve-et-Labrador,Femme,10,90
+2021/2022,Délai plus long,Terre-Neuve-et-Labrador,Total,10,97
+2021/2022,Délai plus long,Terre-Neuve-et-Labrador,Homme,10,96
+2021/2022,Délai plus long,Terre-Neuve-et-Labrador,Femme,10,97
+2021/2022,Délai prévu,Île-du-Prince-Édouard,Total,11,90
+2021/2022,Délai prévu,Île-du-Prince-Édouard,Homme,11,91
+2021/2022,Délai prévu,Île-du-Prince-Édouard,Femme,11,90
+2021/2022,Délai plus long,Île-du-Prince-Édouard,Total,11,96
+2021/2022,Délai plus long,Île-du-Prince-Édouard,Homme,11,95
+2021/2022,Délai plus long,Île-du-Prince-Édouard,Femme,11,97
+2021/2022,Délai prévu,Nouvelle-Écosse,Total,12,91
+2021/2022,Délai prévu,Nouvelle-Écosse,Homme,12,92
+2021/2022,Délai prévu,Nouvelle-Écosse,Femme,12,90
+2021/2022,Délai plus long,Nouvelle-Écosse,Total,12,96
+2021/2022,Délai plus long,Nouvelle-Écosse,Homme,12,96
+2021/2022,Délai plus long,Nouvelle-Écosse,Femme,12,96
+2021/2022,Délai prévu,Nouveau-Brunswick,Total,13,85
+2021/2022,Délai prévu,Nouveau-Brunswick,Homme,13,84
+2021/2022,Délai prévu,Nouveau-Brunswick,Femme,13,86
+2021/2022,Délai plus long,Nouveau-Brunswick,Total,13,90
+2021/2022,Délai plus long,Nouveau-Brunswick,Homme,13,88
+2021/2022,Délai plus long,Nouveau-Brunswick,Femme,13,93
+2021/2022,Délai prévu,Québec,Total,24,76
+2021/2022,Délai prévu,Québec,Homme,24,70
+2021/2022,Délai prévu,Québec,Femme,24,82
+2021/2022,Délai plus long,Québec,Total,24,86
+2021/2022,Délai plus long,Québec,Homme,24,83
+2021/2022,Délai plus long,Québec,Femme,24,89
+2021/2022,Délai prévu,Ontario,Total,35,87
+2021/2022,Délai prévu,Ontario,Homme,35,85
+2021/2022,Délai prévu,Ontario,Femme,35,90
+2021/2022,Délai plus long,Ontario,Total,35,94
+2021/2022,Délai plus long,Ontario,Homme,35,92
+2021/2022,Délai plus long,Ontario,Femme,35,96
+2021/2022,Délai prévu,Manitoba,Total,46,84
+2021/2022,Délai prévu,Manitoba,Homme,46,82
+2021/2022,Délai prévu,Manitoba,Femme,46,87
+2021/2022,Délai plus long,Manitoba,Total,46,88
+2021/2022,Délai plus long,Manitoba,Homme,46,87
+2021/2022,Délai plus long,Manitoba,Femme,46,89
+2021/2022,Délai prévu,Saskatchewan,Total,47,83
+2021/2022,Délai prévu,Saskatchewan,Homme,47,82
+2021/2022,Délai prévu,Saskatchewan,Femme,47,84
+2021/2022,Délai plus long,Saskatchewan,Total,47,91
+2021/2022,Délai plus long,Saskatchewan,Homme,47,89
+2021/2022,Délai plus long,Saskatchewan,Femme,47,92
+2021/2022,Délai prévu,Alberta,Total,48,82
+2021/2022,Délai prévu,Alberta,Homme,48,80
+2021/2022,Délai prévu,Alberta,Femme,48,84
+2021/2022,Délai plus long,Alberta,Total,48,90
+2021/2022,Délai plus long,Alberta,Homme,48,88
+2021/2022,Délai plus long,Alberta,Femme,48,92
+2021/2022,Délai prévu,Colombie-Britannique,Total,59,84
+2021/2022,Délai prévu,Colombie-Britannique,Homme,59,82
+2021/2022,Délai prévu,Colombie-Britannique,Femme,59,85
+2021/2022,Délai plus long,Colombie-Britannique,Total,59,87
+2021/2022,Délai plus long,Colombie-Britannique,Homme,59,86
+2021/2022,Délai plus long,Colombie-Britannique,Femme,59,89
+2021/2022,Délai plus long,Territoires du Nord-Ouest,Total,61,57
+2021/2022,Délai plus long,Territoires du Nord-Ouest,Homme,61,50
+2021/2022,Délai plus long,Territoires du Nord-Ouest,Femme,61,57

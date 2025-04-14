@@ -1,0 +1,57 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Unwanted or inappropriate behaviour",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agression sexuelle",
+                "Agression physique",
+                "Comportements non désirés ou inappropriés en public",
+                "Comportements non désirés ou inappropriés en ligne",
+                "Comportements non désirés ou inappropriés dans le milieu de travail",
+                ""
+              ]
+            },
+            "title": "Comportements non désirés ou inappropriés"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Femmes",
+                "Hommes",
+                ""
+              ]
+            },
+            "title": "Sexe"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valeur"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-7-2",
+  "title": "Proportion de personnes victimes de harcèlement physique ou sexuel, par sexe, âge, situation au regard du handicap et lieu des faits (au cours des 12 mois précédents)"
+}

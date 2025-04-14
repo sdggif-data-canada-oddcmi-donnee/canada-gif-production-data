@@ -1,0 +1,58 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Année"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Pourcentage (%)",
+                "Tonnes/hectare",
+                "Hectares (Millions)",
+                ""
+              ]
+            },
+            "title": "Unités"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Taux de variation nette de la superficie forestière",
+                "Stock de biomasse aérienne en forêt",
+                "Proportion de la superficie forestière située dans des aires protégées légalement établies",
+                "Proportion de la superficie forestière faisant l’objet d’un plan de gestion forestière à long terme",
+                "Superficie forestière faisant l’objet d’un système de certification de la gestion forestière vérifié de manière indépendante\n",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valeur"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "15-2-1",
+  "title": "Progrès vers la gestion durable des forêts"
+}

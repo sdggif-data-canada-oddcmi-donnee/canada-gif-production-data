@@ -1,0 +1,95 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Geography",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Canada",
+                "Terre-Neuve-et-Labrador",
+                "Île-du-Prince-Édouard",
+                "Nouvelle-Écosse",
+                "Nouveau-Brunswick",
+                "Québec",
+                "Ontario",
+                "Manitoba",
+                "Saskatchewan",
+                "Alberta",
+                "Colombie-Britannique",
+                "Yukon, Territoires du Nord-Ouest et Nunavut",
+                ""
+              ]
+            },
+            "title": "Géographie"
+          },
+          {
+            "name": "Type of materials diverted",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Toutes les matières",
+                "Toutes les fibres cellulosiques",
+                "Verre",
+                "Métaux ferreux",
+                "Cuivre et aluminium",
+                "Métaux mélangés",
+                "Électroménagers",
+                "Matériel électronique",
+                "Matières plastiques",
+                "Récipients triangulaires et aseptiques",
+                "Textiles",
+                "Pneus",
+                "Déchets provenant de la construction, de la rénovation et de la démolition",
+                "Matières organiques",
+                "Autres matières",
+                ""
+              ]
+            },
+            "title": "Type de matières récupérées"
+          },
+          {
+            "name": "Sources of materials prepared for recycling",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Toutes les sources des matières récupérées",
+                "Sources des matières résidentielles récupérées",
+                "Sources des matières non résidentielles récupérées",
+                ""
+              ]
+            },
+            "title": "Sources des matières préparées en vue du recyclage"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valeur"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "12-5-1",
+  "title": "Taux de recyclage national, tonnes de matériaux recyclés"
+}

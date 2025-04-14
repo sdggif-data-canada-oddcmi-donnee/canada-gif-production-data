@@ -1,0 +1,68 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Pourcentage (%)",
+                "Millions de mètres cubes",
+                ""
+              ]
+            },
+            "title": "Unités"
+          },
+          {
+            "name": "Source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Industries",
+                "Municipale",
+                ""
+              ]
+            },
+            "title": "Source"
+          },
+          {
+            "name": "Wastewater treatment level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aucun traitement",
+                "Traitées sans danger",
+                "Traitées",
+                "Eaux usées générées",
+                ""
+              ]
+            },
+            "title": "Niveau de traitement des eaux usées"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valeur"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-3-1",
+  "title": "Proportion des eaux usées d’origine ménagère et industrielle traitées sans danger"
+}

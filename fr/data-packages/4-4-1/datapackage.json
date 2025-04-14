@@ -1,0 +1,83 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Activity related to digital skills",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Copié ou déplacé des fichiers ou des dossiers numériques",
+                "Utilisé un logiciel de traitement de texte",
+                "Créé des présentations, ou des documents comprenant du texte et des images, des tableaux ou des graphiques",
+                "Utilisé les fonctions de base d’un logiciel tableur",
+                "Utilisé des fonctions avancées d’un logiciel tableur pour organiser et analyser des données",
+                "Utilisé un logiciel pour modifier des photos, des vidéos ou des fichiers audio",
+                "Écrit du code dans un langage de programmation",
+                "Téléchargé des fichiers ou des photos vers un espace de stockage de données en ligne",
+                "Téléchargé des fichiers de l’Internet vers votre ordinateur ou d’autres appareils",
+                "Partagé des fichiers à l’aide d’un service de stockage de données en ligne",
+                "Connecté un nouvel appareil à un réseau Wi-Fi",
+                "Utilisé Internet pour transférer des photos ou des vidéos d’un appareil à un autre",
+                "Utilisé votre téléphone intelligent comme appareil GPS pour obtenir des indications",
+                "Connecté un nouvel appareil par Bluetooth",
+                ""
+              ]
+            },
+            "title": "Activité liée à des compétences numériques"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total, tous les utilisateurs d'Internet âgés de 15 ans et plus",
+                "Utilisateurs d'Internet âgés de 15 ans à 24 ans",
+                "Utilisateurs d'Internet âgés de 25 ans à 44 ans",
+                "Utilisateurs d'Internet âgés de 45 ans à 64 ans",
+                "Utilisateurs d'Internet âgés de 65 ans et plus",
+                ""
+              ]
+            },
+            "title": "Groupe d'âge"
+          },
+          {
+            "name": "Level of education",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total, plus haut certificat, diplôme ou grade obtenu",
+                "Un diplôme d'études secondaires ou moins",
+                "Un diplôme d'un collège ou d'une école de métiers, ou études universitaires partielles",
+                "Un baccalauréat ou diplôme supérieur",
+                ""
+              ]
+            },
+            "title": "Niveau de scolarité"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valeur"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-4-1",
+  "title": "Proportion de jeunes et d’adultes ayant des compétences dans le domaine des technologies de l’information et des communications, par type de compétence"
+}

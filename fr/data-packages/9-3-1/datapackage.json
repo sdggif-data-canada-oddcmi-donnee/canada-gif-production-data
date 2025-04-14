@@ -1,0 +1,74 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Industry",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Produits alimentaires",
+                "Boissons",
+                "Textiles",
+                "Produits du bois, à l’exclusion des meubles",
+                "Papier et produits du papier",
+                "Impression et reproduction de supports enregistrés",
+                "Coke et produits pétroliers raffinés",
+                "Produits en caoutchouc et en plastique",
+                "Autres produits minéraux non métalliques",
+                "Métaux de base",
+                "Ouvrages en métaux, à l’exception des machines",
+                "Produits informatiques, électroniques et optiques",
+                "Matériel électrique",
+                "Machines et équipements n.c.a.",
+                "Véhicules automobiles, remorques et semi-remorques",
+                "Mobilier",
+                "Autres industries manufacturières",
+                "Total de l’industrie manufacturière",
+                ""
+              ]
+            },
+            "title": "Industrie"
+          },
+          {
+            "name": "Size",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1-9 employés",
+                "10-19 employés",
+                "20-49 employés",
+                "50-249 employés",
+                "250 employés et plus",
+                "All enterprises",
+                ""
+              ]
+            },
+            "title": "Taille"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valeur"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-3-1",
+  "title": "Proportion des petites entreprises dans la valeur ajoutée totale de l’industrie"
+}

@@ -1,0 +1,389 @@
+Year,Water quality category,Land use category,Geography,Value
+2016-2018,Excellent,Agriculture,Canada,0
+2016-2018,Good,Agriculture,Canada,6
+2016-2018,Excellent,Forestry,Canada,1
+2016-2018,Good,Forestry,Canada,6
+2016-2018,Excellent,Mining,Canada,0
+2016-2018,Good,Mining,Canada,2
+2016-2018,Excellent,Populated,Canada,0
+2016-2018,Good,Populated,Canada,0
+2016-2018,Excellent,Mixed pressures,Canada,2
+2016-2018,Good,Mixed pressures,Canada,13
+2016-2018,Excellent,Undeveloped,Canada,3
+2016-2018,Good,Undeveloped,Canada,7
+2016-2018,Excellent,Total,Canada,5
+2016-2018,Good,Total,Canada,35
+2016-2018,Excellent,Total,Atlantic Ocean,4
+2016-2018,Good,Total,Atlantic Ocean,53
+2016-2018,Excellent,Total,Great Lakes and St. Lawrence River,0
+2016-2018,Good,Total,Great Lakes and St. Lawrence River,29
+2016-2018,Excellent,Total,Hudson Bay,11
+2016-2018,Good,Total,Hudson Bay,31
+2016-2018,Excellent,Total,Mackenzie River,15
+2016-2018,Good,Total,Mackenzie River,35
+2016-2018,Excellent,Total,Pacific Ocean,8
+2016-2018,Good,Total,Pacific Ocean,28
+2016-2018,Excellent,Agriculture,Atlantic Ocean,0
+2016-2018,Good,Agriculture,Atlantic Ocean,7
+2016-2018,Excellent,Forestry,Atlantic Ocean,2
+2016-2018,Good,Forestry,Atlantic Ocean,18
+2016-2018,Excellent,Mining,Atlantic Ocean,0
+2016-2018,Good,Mining,Atlantic Ocean,2
+2016-2018,Excellent,Populated,Atlantic Ocean,0
+2016-2018,Good,Populated,Atlantic Ocean,0
+2016-2018,Excellent,Mixed pressures,Atlantic Ocean,0
+2016-2018,Good,Mixed pressures,Atlantic Ocean,9
+2016-2018,Excellent,Undeveloped,Atlantic Ocean,2
+2016-2018,Good,Undeveloped,Atlantic Ocean,18
+2016-2018,Excellent,Agriculture,Great Lakes and St. Lawrence River,0
+2016-2018,Good,Agriculture,Great Lakes and St. Lawrence River,5
+2016-2018,Excellent,Forestry,Great Lakes and St. Lawrence River,0
+2016-2018,Good,Forestry,Great Lakes and St. Lawrence River,2
+2016-2018,Excellent,Mining,Great Lakes and St. Lawrence River,0
+2016-2018,Good,Mining,Great Lakes and St. Lawrence River,5
+2016-2018,Excellent,Populated,Great Lakes and St. Lawrence River,0
+2016-2018,Good,Populated,Great Lakes and St. Lawrence River,0
+2016-2018,Excellent,Mixed pressures,Great Lakes and St. Lawrence River,0
+2016-2018,Good,Mixed pressures,Great Lakes and St. Lawrence River,10
+2016-2018,Excellent,Undeveloped,Great Lakes and St. Lawrence River,0
+2016-2018,Good,Undeveloped,Great Lakes and St. Lawrence River,7
+2016-2018,Excellent,Agriculture,Hudson Bay,0
+2016-2018,Good,Agriculture,Hudson Bay,11
+2016-2018,Excellent,Forestry,Hudson Bay,0
+2016-2018,Good,Forestry,Hudson Bay,0
+2016-2018,Excellent,Mining,Hudson Bay,0
+2016-2018,Good,Mining,Hudson Bay,0
+2016-2018,Excellent,Populated,Hudson Bay,0
+2016-2018,Good,Populated,Hudson Bay,0
+2016-2018,Excellent,Mixed pressures,Hudson Bay,7
+2016-2018,Good,Mixed pressures,Hudson Bay,20
+2016-2018,Excellent,Undeveloped,Hudson Bay,4
+2016-2018,Good,Undeveloped,Hudson Bay,0
+2016-2018,Excellent,Agriculture,Mackenzie River,0
+2016-2018,Good,Agriculture,Mackenzie River,0
+2016-2018,Excellent,Forestry,Mackenzie River,0
+2016-2018,Good,Forestry,Mackenzie River,0
+2016-2018,Excellent,Mining,Mackenzie River,0
+2016-2018,Good,Mining,Mackenzie River,10
+2016-2018,Excellent,Populated,Mackenzie River,0
+2016-2018,Good,Populated,Mackenzie River,0
+2016-2018,Excellent,Mixed pressures,Mackenzie River,5
+2016-2018,Good,Mixed pressures,Mackenzie River,10
+2016-2018,Excellent,Undeveloped,Mackenzie River,10
+2016-2018,Good,Undeveloped,Mackenzie River,15
+2016-2018,Excellent,Agriculture,Pacific Ocean,0
+2016-2018,Good,Agriculture,Pacific Ocean,0
+2016-2018,Excellent,Forestry,Pacific Ocean,0
+2016-2018,Good,Forestry,Pacific Ocean,8
+2016-2018,Excellent,Mining,Pacific Ocean,0
+2016-2018,Good,Mining,Pacific Ocean,8
+2016-2018,Excellent,Populated,Pacific Ocean,0
+2016-2018,Good,Populated,Pacific Ocean,0
+2016-2018,Excellent,Mixed pressures,Pacific Ocean,0
+2016-2018,Good,Mixed pressures,Pacific Ocean,8
+2016-2018,Excellent,Undeveloped,Pacific Ocean,8
+2016-2018,Good,Undeveloped,Pacific Ocean,4
+2017-2019,Excellent,Agriculture,Canada,0
+2017-2019,Good,Agriculture,Canada,9
+2017-2019,Excellent,Forestry,Canada,1
+2017-2019,Good,Forestry,Canada,5
+2017-2019,Excellent,Mining,Canada,0
+2017-2019,Good,Mining,Canada,2
+2017-2019,Excellent,Populated,Canada,0
+2017-2019,Good,Populated,Canada,0
+2017-2019,Excellent,Mixed pressures,Canada,2
+2017-2019,Good,Mixed pressures,Canada,10
+2017-2019,Excellent,Undeveloped,Canada,2
+2017-2019,Good,Undeveloped,Canada,8
+2017-2019,Excellent,Total,Canada,6
+2017-2019,Good,Total,Canada,35
+2017-2019,Excellent,Total,Atlantic Ocean,4
+2017-2019,Excellent,Total,Great Lakes and St. Lawrence River,0
+2017-2019,Excellent,Total,Hudson Bay,14
+2017-2019,Excellent,Total,Mackenzie River,10
+2017-2019,Excellent,Total,Pacific Ocean,8
+2017-2019,Good,Total,Atlantic Ocean,51
+2017-2019,Good,Total,Great Lakes and St. Lawrence River,28
+2017-2019,Good,Total,Hudson Bay,36
+2017-2019,Good,Total,Mackenzie River,30
+2017-2019,Good,Total,Pacific Ocean,29
+2017-2019,Excellent,Agriculture,Atlantic Ocean,0
+2017-2019,Good,Agriculture,Atlantic Ocean,9
+2017-2019,Excellent,Forestry,Atlantic Ocean,4
+2017-2019,Good,Forestry,Atlantic Ocean,13
+2017-2019,Excellent,Mining,Atlantic Ocean,0
+2017-2019,Good,Mining,Atlantic Ocean,2
+2017-2019,Excellent,Populated,Atlantic Ocean,0
+2017-2019,Good,Populated,Atlantic Ocean,0
+2017-2019,Excellent,Mixed pressures,Atlantic Ocean,0
+2017-2019,Good,Mixed pressures,Atlantic Ocean,7
+2017-2019,Excellent,Undeveloped,Atlantic Ocean,0
+2017-2019,Good,Undeveloped,Atlantic Ocean,20
+2017-2019,Excellent,Agriculture,Great Lakes and St. Lawrence River,0
+2017-2019,Good,Agriculture,Great Lakes and St. Lawrence River,7
+2017-2019,Excellent,Forestry,Great Lakes and St. Lawrence River,0
+2017-2019,Good,Forestry,Great Lakes and St. Lawrence River,2
+2017-2019,Excellent,Mining,Great Lakes and St. Lawrence River,0
+2017-2019,Good,Mining,Great Lakes and St. Lawrence River,3
+2017-2019,Excellent,Populated,Great Lakes and St. Lawrence River,0
+2017-2019,Good,Populated,Great Lakes and St. Lawrence River,0
+2017-2019,Excellent,Mixed pressures,Great Lakes and St. Lawrence River,0
+2017-2019,Good,Mixed pressures,Great Lakes and St. Lawrence River,9
+2017-2019,Excellent,Undeveloped,Great Lakes and St. Lawrence River,0
+2017-2019,Good,Undeveloped,Great Lakes and St. Lawrence River,7
+2017-2019,Excellent,Agriculture,Hudson Bay,0
+2017-2019,Good,Agriculture,Hudson Bay,18
+2017-2019,Excellent,Forestry,Hudson Bay,0
+2017-2019,Good,Forestry,Hudson Bay,0
+2017-2019,Excellent,Mining,Hudson Bay,0
+2017-2019,Good,Mining,Hudson Bay,0
+2017-2019,Excellent,Populated,Hudson Bay,0
+2017-2019,Good,Populated,Hudson Bay,0
+2017-2019,Excellent,Mixed pressures,Hudson Bay,9
+2017-2019,Good,Mixed pressures,Hudson Bay,18
+2017-2019,Excellent,Undeveloped,Hudson Bay,5
+2017-2019,Good,Undeveloped,Hudson Bay,0
+2017-2019,Excellent,Agriculture,Mackenzie River,0
+2017-2019,Good,Agriculture,Mackenzie River,0
+2017-2019,Excellent,Forestry,Mackenzie River,0
+2017-2019,Good,Forestry,Mackenzie River,0
+2017-2019,Excellent,Mining,Mackenzie River,0
+2017-2019,Good,Mining,Mackenzie River,10
+2017-2019,Excellent,Populated,Mackenzie River,0
+2017-2019,Good,Populated,Mackenzie River,0
+2017-2019,Excellent,Mixed pressures,Mackenzie River,5
+2017-2019,Good,Mixed pressures,Mackenzie River,5
+2017-2019,Excellent,Undeveloped,Mackenzie River,5
+2017-2019,Good,Undeveloped,Mackenzie River,15
+2017-2019,Excellent,Agriculture,Pacific Ocean,0
+2017-2019,Good,Agriculture,Pacific Ocean,0
+2017-2019,Excellent,Forestry,Pacific Ocean,0
+2017-2019,Good,Forestry,Pacific Ocean,8
+2017-2019,Excellent,Mining,Pacific Ocean,0
+2017-2019,Good,Mining,Pacific Ocean,8
+2017-2019,Excellent,Populated,Pacific Ocean,0
+2017-2019,Good,Populated,Pacific Ocean,0
+2017-2019,Excellent,Mixed Pressures,Pacific Ocean,0
+2017-2019,Good,Mixed Pressures,Pacific Ocean,8
+2017-2019,Excellent,Undeveloped,Pacific Ocean,8
+2017-2019,Good,Undeveloped,Pacific Ocean,4
+2016-2018,Total,Agriculture,Atlantic Ocean,9
+2016-2018,Total,Forestry,Atlantic Ocean,29
+2016-2018,Total,Mining,Atlantic Ocean,4
+2016-2018,Total,Mixed pressures,Atlantic Ocean,13
+2016-2018,Total,Populated,Atlantic Ocean,0
+2016-2018,Total,Total,Atlantic Ocean,86
+2016-2018,Total,Undeveloped,Atlantic Ocean,31
+2016-2018,Total,Agriculture,Canada,15
+2016-2018,Total,Forestry,Canada,9
+2016-2018,Total,Mining,Canada,4
+2016-2018,Total,Mixed pressures,Canada,38
+2016-2018,Total,Populated,Canada,1
+2016-2018,,,,80
+2016-2018,Total,Undeveloped,Canada,13
+2016-2018,Total,Agriculture,Great Lakes and St. Lawrence River,12
+2016-2018,Total,Forestry,Great Lakes and St. Lawrence River,2
+2016-2018,Total,Mining,Great Lakes and St. Lawrence River,8
+2016-2018,Total,Mixed pressures,Great Lakes and St. Lawrence River,41
+2016-2018,Total,Populated,Great Lakes and St. Lawrence River,2
+2016-2018,Total,Total,Great Lakes and St. Lawrence River,74
+2016-2018,Total,Undeveloped,Great Lakes and St. Lawrence River,9
+2016-2018,Total,Agriculture,Hudson Bay,33
+2016-2018,Total,Forestry,Hudson Bay,0
+2016-2018,Total,Mining,Hudson Bay,0
+2016-2018,Total,Mixed pressures,Hudson Bay,45
+2016-2018,Total,Populated,Hudson Bay,0
+2016-2018,Total,Total,Hudson Bay,82
+2016-2018,Total,Undeveloped,Hudson Bay,4
+2016-2018,Total,Agriculture,Mackenzie River,0
+2016-2018,Total,Forestry,Mackenzie River,0
+2016-2018,Total,Mining,Mackenzie River,20
+2016-2018,Total,Mixed pressures,Mackenzie River,40
+2016-2018,Total,Populated,Mackenzie River,0
+2016-2018,Total,Total,Mackenzie River,100
+2016-2018,Total,Undeveloped,Mackenzie River,40
+2016-2018,Total,Agriculture,Pacific Ocean,0
+2016-2018,Total,Forestry,Pacific Ocean,8
+2016-2018,Total,Mining,Pacific Ocean,12
+2016-2018,Total,Mixed pressures,Pacific Ocean,44
+2016-2018,Total,Populated,Pacific Ocean,0
+2016-2018,Total,Total,Pacific Ocean,76
+2016-2018,Total,Undeveloped,Pacific Ocean,12
+2017-2019,Total,Agriculture,Atlantic Ocean,9
+2017-2019,Total,Forestry,Atlantic Ocean,30
+2017-2019,Total,Mining,Atlantic Ocean,4
+2017-2019,Total,Mixed pressures,Atlantic Ocean,14
+2017-2019,Total,Populated,Atlantic Ocean,0
+2017-2019,Total,Total,Atlantic Ocean,88
+2017-2019,Total,Undeveloped,Atlantic Ocean,31
+2017-2019,Total,Agriculture,Canada,17
+2017-2019,Total,Forestry,Canada,9
+2017-2019,Total,Mining,Canada,4
+2017-2019,Total,Mixed pressures,Canada,37
+2017-2019,Total,Populated,Canada,1
+2017-2019,,,,83
+2017-2019,Total,Undeveloped,Canada,13
+2017-2019,Total,Agriculture,Great Lakes and St. Lawrence River,12
+2017-2019,Total,Forestry,Great Lakes and St. Lawrence River,2
+2017-2019,Total,Mining,Great Lakes and St. Lawrence River,6
+2017-2019,Total,Mixed pressures,Great Lakes and St. Lawrence River,42
+2017-2019,Total,Populated,Great Lakes and St. Lawrence River,2
+2017-2019,Total,Total,Great Lakes and St. Lawrence River,73
+2017-2019,Total,Undeveloped,Great Lakes and St. Lawrence River,9
+2017-2019,Total,Agriculture,Hudson Bay,41
+2017-2019,Total,Forestry,Hudson Bay,0
+2017-2019,Total,Mining,Hudson Bay,0
+2017-2019,Total,Mixed pressures,Hudson Bay,47
+2017-2019,Total,Populated,Hudson Bay,0
+2017-2019,Total,Total,Hudson Bay,93
+2017-2019,Total,Undeveloped,Hudson Bay,5
+2017-2019,Total,Agriculture,Mackenzie River,0
+2017-2019,Total,Forestry,Mackenzie River,0
+2017-2019,Total,Mining,Mackenzie River,20
+2017-2019,Total,Mixed pressures,Mackenzie River,40
+2017-2019,Total,Populated,Mackenzie River,0
+2017-2019,Total,Total,Mackenzie River,90
+2017-2019,Total,Undeveloped,Mackenzie River,30
+2017-2019,Total,Agriculture,Pacific Ocean,0
+2017-2019,Total,Forestry,Pacific Ocean,8
+2017-2019,Total,Mining,Pacific Ocean,8
+2017-2019,Total,Mixed Pressures,Pacific Ocean,41
+2017-2019,Total,Populated,Pacific Ocean,0
+2017-2019,Total,Total,Pacific Ocean,70
+2017-2019,Total,Undeveloped,Pacific Ocean,12
+2018-2020,Excellent,Agriculture,Canada,1
+2018-2020,Good,Agriculture,Canada,8
+2018-2020,Excellent,Forestry,Canada,2
+2018-2020,Good,Forestry,Canada,4
+2018-2020,Excellent,Mining,Canada,0
+2018-2020,Good,Mining,Canada,2
+2018-2020,Excellent,Populated,Canada,0
+2018-2020,Good,Populated,Canada,0
+2018-2020,Excellent,Mixed pressures,Canada,3
+2018-2020,Good,Mixed pressures,Canada,13
+2018-2020,Excellent,Undeveloped,Canada,3
+2018-2020,Good,Undeveloped,Canada,9
+2018-2020,Excellent,Total,Canada,10
+2018-2020,Good,Total,Canada,35
+2018-2020,Total,Agriculture,Canada,16
+2018-2020,Total,Forestry,Canada,9
+2018-2020,Total,Mining,Canada,4
+2018-2020,Total,Mixed pressures,Canada,38
+2018-2020,Total,Populated,Canada,1
+2018-2020,,,,83
+2018-2020,Total,Undeveloped,Canada,14
+2018-2020,Excellent,Total,Atlantic Ocean,9
+2018-2020,Excellent,Total,Great Lakes and St. Lawrence River,5
+2018-2020,Excellent,Total,Hudson Bay,16
+2018-2020,Excellent,Total,Mackenzie River,18
+2018-2020,Excellent,Total,Pacific Ocean,14
+2018-2020,Good,Total,Atlantic Ocean,53
+2018-2020,Good,Total,Great Lakes and St. Lawrence River,26
+2018-2020,Good,Total,Hudson Bay,36
+2018-2020,Good,Total,Mackenzie River,41
+2018-2020,Good,Total,Pacific Ocean,29
+2018-2020,Total,Total,Atlantic Ocean,89
+2018-2020,Total,Total,Great Lakes and St. Lawrence River,71
+2018-2020,Total,Total,Hudson Bay,93
+2018-2020,Total,Total,Mackenzie River,100
+2018-2020,Total,Total,Pacific Ocean,86
+2018-2020,Excellent,Agriculture,Atlantic Ocean,0
+2018-2020,Good,Agriculture,Atlantic Ocean,9
+2018-2020,Excellent,Forestry,Atlantic Ocean,7
+2018-2020,Good,Forestry,Atlantic Ocean,11
+2018-2020,Excellent,Mining,Atlantic Ocean,0
+2018-2020,Good,Mining,Atlantic Ocean,2
+2018-2020,Excellent,Populated,Atlantic Ocean,0
+2018-2020,Good,Populated,Atlantic Ocean,0
+2018-2020,Excellent,Mixed pressures,Atlantic Ocean,0
+2018-2020,Good,Mixed pressures,Atlantic Ocean,7
+2018-2020,Excellent,Undeveloped,Atlantic Ocean,2
+2018-2020,Good,Undeveloped,Atlantic Ocean,24
+2018-2020,Excellent,Total,Atlantic Ocean,9
+2018-2020,Good,Total,Atlantic Ocean,53
+2018-2020,Excellent,Agriculture,Great Lakes and St. Lawrence River,3
+2018-2020,Good,Agriculture,Great Lakes and St. Lawrence River,3
+2018-2020,Excellent,Forestry,Great Lakes and St. Lawrence River,0
+2018-2020,Good,Forestry,Great Lakes and St. Lawrence River,2
+2018-2020,Excellent,Mining,Great Lakes and St. Lawrence River,0
+2018-2020,Good,Mining,Great Lakes and St. Lawrence River,3
+2018-2020,Excellent,Populated,Great Lakes and St. Lawrence River,0
+2018-2020,Good,Populated,Great Lakes and St. Lawrence River,0
+2018-2020,Excellent,Mixed pressures,Great Lakes and St. Lawrence River,0
+2018-2020,Good,Mixed pressures,Great Lakes and St. Lawrence River,12
+2018-2020,Excellent,Undeveloped,Great Lakes and St. Lawrence River,2
+2018-2020,Good,Undeveloped,Great Lakes and St. Lawrence River,5
+2018-2020,Excellent,Total,Great Lakes and St. Lawrence River,5
+2018-2020,Good,Total,Great Lakes and St. Lawrence River,26
+2018-2020,Excellent,Agriculture,Hudson Bay,0
+2018-2020,Good,Agriculture,Hudson Bay,18
+2018-2020,Excellent,Forestry,Hudson Bay,0
+2018-2020,Good,Forestry,Hudson Bay,0
+2018-2020,Excellent,Mining,Hudson Bay,0
+2018-2020,Good,Mining,Hudson Bay,0
+2018-2020,Excellent,Populated,Hudson Bay,0
+2018-2020,Good,Populated,Hudson Bay,0
+2018-2020,Excellent,Mixed pressures,Hudson Bay,11
+2018-2020,Good,Mixed pressures,Hudson Bay,18
+2018-2020,Excellent,Undeveloped,Hudson Bay,5
+2018-2020,Good,Undeveloped,Hudson Bay,0
+2018-2020,Excellent,Total,Hudson Bay,16
+2018-2020,Good,Total,Hudson Bay,36
+2018-2020,Excellent,Agriculture,Mackenzie River,0
+2018-2020,Good,Agriculture,Mackenzie River,0
+2018-2020,Excellent,Forestry,Mackenzie River,0
+2018-2020,Good,Forestry,Mackenzie River,0
+2018-2020,Excellent,Mining,Mackenzie River,6
+2018-2020,Good,Mining,Mackenzie River,6
+2018-2020,Excellent,Populated,Mackenzie River,0
+2018-2020,Good,Populated,Mackenzie River,0
+2018-2020,Excellent,Mixed pressures,Mackenzie River,6
+2018-2020,Good,Mixed pressures,Mackenzie River,12
+2018-2020,Excellent,Undeveloped,Mackenzie River,6
+2018-2020,Good,Undeveloped,Mackenzie River,24
+2018-2020,Excellent,Total,Mackenzie River,18
+2018-2020,Good,Total,Mackenzie River,41
+2018-2020,Excellent,Agriculture,Pacific Ocean,0
+2018-2020,Good,Agriculture,Pacific Ocean,0
+2018-2020,Excellent,Forestry,Pacific Ocean,5
+2018-2020,Good,Forestry,Pacific Ocean,5
+2018-2020,Excellent,Mining,Pacific Ocean,0
+2018-2020,Good,Mining,Pacific Ocean,0
+2018-2020,Excellent,Populated,Pacific Ocean,0
+2018-2020,Good,Populated,Pacific Ocean,0
+2018-2020,Excellent,Mixed Pressures,Pacific Ocean,0
+2018-2020,Good,Mixed Pressures,Pacific Ocean,19
+2018-2020,Excellent,Undeveloped,Pacific Ocean,10
+2018-2020,Good,Undeveloped,Pacific Ocean,5
+2018-2020,Excellent,Total,Pacific Ocean,14
+2018-2020,Good,Total,Pacific Ocean,29
+2018-2020,Total,Agriculture,Atlantic Ocean,9
+2018-2020,Total,Forestry,Atlantic Ocean,31
+2018-2020,Total,Mining,Atlantic Ocean,4
+2018-2020,Total,Mixed pressures,Atlantic Ocean,14
+2018-2020,Total,Populated,Atlantic Ocean,0
+2018-2020,Total,Undeveloped,Atlantic Ocean,30
+2018-2020,Total,Agriculture,Great Lakes and St. Lawrence River,11
+2018-2020,Total,Forestry,Great Lakes and St. Lawrence River,2
+2018-2020,Total,Mining,Great Lakes and St. Lawrence River,6
+2018-2020,Total,Mixed pressures,Great Lakes and St. Lawrence River,40
+2018-2020,Total,Populated,Great Lakes and St. Lawrence River,2
+2018-2020,Total,Undeveloped,Great Lakes and St. Lawrence River,9
+2018-2020,Total,Agriculture,Hudson Bay,41
+2018-2020,Total,Forestry,Hudson Bay,0
+2018-2020,Total,Mining,Hudson Bay,0
+2018-2020,Total,Mixed pressures,Hudson Bay,47
+2018-2020,Total,Populated,Hudson Bay,0
+2018-2020,Total,Undeveloped,Hudson Bay,5
+2018-2020,Total,Agriculture,Mackenzie River,0
+2018-2020,Total,Forestry,Mackenzie River,0
+2018-2020,Total,Mining,Mackenzie River,18
+2018-2020,Total,Mixed pressures,Mackenzie River,47
+2018-2020,Total,Populated,Mackenzie River,0
+2018-2020,Total,Undeveloped,Mackenzie River,36
+2018-2020,Total,Agriculture,Pacific Ocean,0
+2018-2020,Total,Forestry,Pacific Ocean,10
+2018-2020,Total,Mining,Pacific Ocean,5
+2018-2020,Total,Mixed Pressures,Pacific Ocean,57
+2018-2020,Total,Populated,Pacific Ocean,0
+2018-2020,Total,Undeveloped,Pacific Ocean,15

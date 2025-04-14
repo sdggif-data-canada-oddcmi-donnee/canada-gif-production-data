@@ -1,0 +1,72 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Tenure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total, mode d'occupation",
+                "Propriétaire",
+                "Propriétaire qui n'est pas un accédant à la propriété",
+                "Locataire",
+                "Locataire n'habitant pas dans un logement social et abordable",
+                "Locataire habitant dans un logement social et abordable",
+                "Propriétaire qui est un accédant à la propriété",
+                ""
+              ]
+            },
+            "title": "Mode d'occupation"
+          },
+          {
+            "name": "Geography",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Terre-Neuve-et-Labrador",
+                "Nouvelle-Écosse",
+                "Nouveau-Brunswick",
+                "Québec",
+                "Ontario",
+                "Manitoba",
+                "Saskatchewan",
+                "Alberta",
+                "Colombie-Britannique",
+                "Canada",
+                ""
+              ]
+            },
+            "title": "Géographie"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valeur"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-1-1",
+  "title": "Proportion de la population urbaine vivant dans des quartiers de taudis, des implantations sauvages ou des logements inadéquats"
+}

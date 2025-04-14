@@ -1,0 +1,119 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Geography",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Abbotsford - Mission (CMA)",
+                "Bathurst (CA)",
+                "British Columbia",
+                "Campbellton (New Brunswick part)(CA)",
+                "Cape Breton (CA)",
+                "Corner Brook (CA)",
+                "Edmunston (CA)",
+                "Fredericton (CMA)",
+                "Gander (CA)",
+                "Grand Falls-Windsor (CA)",
+                "Halifax (CMA)",
+                "Hamilton (CMA)",
+                "Kamloops (CMA)",
+                "Kelowna (CMA)",
+                "Kentville (CA)",
+                "Kitchener - Cambridge - Waterloo (CMA)",
+                "London (CMA)",
+                "Moncton (CMA)",
+                "Nanaimo (CMA)",
+                "New Brunswick",
+                "New Glasgow (CA)",
+                "Newfoundland and Labrador",
+                "Northwest Territories",
+                "Nova Scotia",
+                "Nunavut",
+                "Ontario",
+                "Ottawa - Gatineau (Ontario part) (CMA)",
+                "Saint John (CMA)",
+                "St. Catharines - Niagara (CMA)",
+                "St. John's (CMA)",
+                "Toronto (CMA)",
+                "Truro (CA)",
+                "Vancouver (CMA)",
+                "Victoria (CMA)",
+                "Whitehorse (CA)",
+                "Yellowknife (CA)",
+                "Yukon",
+                ""
+              ]
+            },
+            "title": "Geography"
+          },
+          {
+            "name": "Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Area"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Gender"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "1-4-2",
+  "title": "Proportion of total adult population with secure tenure rights to land, (a) with legally recognized documentation, and (b) who perceive their rights to land as secure, by sex and type of tenure"
+}

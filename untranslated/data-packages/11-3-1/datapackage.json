@@ -1,0 +1,92 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ratio of land consumption rate to population growth rate",
+                "Land consumption rate",
+                "Population growth rate",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ratio",
+                "Percentage (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geography",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Toronto, Ontario",
+                "Montréal, Quebec",
+                "Vancouver, British Columbia",
+                "Calgary, Alberta",
+                "Ottawa - Gatineau, Ontario and Quebec",
+                "Edmonton, Alberta",
+                "Winnipeg, Manitoba",
+                "Québec, Quebec",
+                "Kitchener, Ontario",
+                "London, Ontario",
+                "Victoria, British Columbia",
+                "Halifax, Nova Scotia",
+                "Windsor, Ontario",
+                "Saskatoon, Saskatchewan",
+                "St. Catharines - Niagara Falls, Ontario",
+                "Regina, Saskatchewan",
+                "Kelowna, British Columbia",
+                "St. John's, Newfoundland and Labrador",
+                "Sherbrooke, Quebec",
+                "Barrie, Ontario",
+                "Guelph, Ontario",
+                "Trois-Rivières, Quebec",
+                "Kingston, Ontario",
+                "Moncton, New Brunswick",
+                "Milton, Ontario",
+                "Saint-Jérôme, Quebec",
+                "Nanaimo, British Columbia",
+                "Chicoutimi - Jonquière, Quebec",
+                "Brantford, Ontario",
+                "Thunder Bay, Ontario",
+                "Red Deer, Alberta",
+                "Sudbury, Ontario",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-3-1",
+  "title": "global_indicators.11-3-1-title"
+}

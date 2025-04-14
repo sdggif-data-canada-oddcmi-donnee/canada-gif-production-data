@@ -1,0 +1,79 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Amount last sent",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "$100 or less",
+                "$101 to $200",
+                "$201 to $300",
+                "$301 to $500",
+                "$501 to $1,000",
+                "$1,001 or more",
+                ""
+              ]
+            },
+            "title": "Amount last sent"
+          },
+          {
+            "name": "Method",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Non-electronic methods",
+                "Electronic methods",
+                "All methods",
+                ""
+              ]
+            },
+            "title": "Method"
+          },
+          {
+            "name": "Destination region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All regions",
+                "Americas",
+                "Eastern and Southern Europe",
+                "Sub-Saharan Africa",
+                "North Africa",
+                "West Central Asia and the Middle East",
+                "Eastern Asia",
+                "Southeast Asia and Oceania",
+                "Southern Asia",
+                "Countries not eligible for official development assistance",
+                ""
+              ]
+            },
+            "title": "Destination region"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-c-1",
+  "title": "Remittance costs as a proportion of the amount remitted"
+}

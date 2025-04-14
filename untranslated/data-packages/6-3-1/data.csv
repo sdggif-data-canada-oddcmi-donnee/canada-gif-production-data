@@ -1,0 +1,106 @@
+Year,Units,Source,Wastewater treatment level,Value
+2013,Percentage (%),Industries,Not treated,33.97
+2015,Percentage (%),Industries,Not treated,36.88
+2017,Percentage (%),Industries,Not treated,36.14
+2020,Percentage (%),Industries,Not treated,35.36
+2021,Percentage (%),Industries,Not treated,37.94
+2013,Percentage (%),Industries,Safely treated,48.75
+2015,Percentage (%),Industries,Safely treated,44.86
+2017,Percentage (%),Industries,Safely treated,44.23
+2020,Percentage (%),Industries,Safely treated,43.77
+2021,Percentage (%),Industries,Safely treated,43.13
+2013,Percentage (%),Industries,Treated,66.03
+2015,Percentage (%),Industries,Treated,63.12
+2017,Percentage (%),Industries,Treated,63.86
+2020,Percentage (%),Industries,Treated,64.64
+2021,Percentage (%),Industries,Treated,62.06
+2013,Percentage (%),Municipal,Not treated,1.9
+2014,Percentage (%),Municipal,Not treated,1.93
+2015,Percentage (%),Municipal,Not treated,1.89
+2016,Percentage (%),Municipal,Not treated,1.87
+2017,Percentage (%),Municipal,Not treated,1.92
+2018,Percentage (%),Municipal,Not treated,1.9
+2019,Percentage (%),Municipal,Not treated,1.8
+2020,Percentage (%),Municipal,Not treated,1.77
+2021,Percentage (%),Municipal,Not treated,1.39
+2022,Percentage (%),Municipal,Not treated,1.46
+2013,Percentage (%),Municipal,Safely treated,71.93
+2014,Percentage (%),Municipal,Safely treated,72.17
+2015,Percentage (%),Municipal,Safely treated,72.47
+2016,Percentage (%),Municipal,Safely treated,71.88
+2017,Percentage (%),Municipal,Safely treated,72.22
+2018,Percentage (%),Municipal,Safely treated,71.96
+2019,Percentage (%),Municipal,Safely treated,73.23
+2020,Percentage (%),Municipal,Safely treated,73.22
+2021,Percentage (%),Municipal,Safely treated,74.0
+2022,Percentage (%),Municipal,Safely treated,73.81
+2013,Percentage (%),Municipal,Treated,98.1
+2014,Percentage (%),Municipal,Treated,98.07
+2015,Percentage (%),Municipal,Treated,98.11
+2016,Percentage (%),Municipal,Treated,98.13
+2017,Percentage (%),Municipal,Treated,98.08
+2018,Percentage (%),Municipal,Treated,98.1
+2019,Percentage (%),Municipal,Treated,98.2
+2020,Percentage (%),Municipal,Treated,98.24
+2021,Percentage (%),Municipal,Treated,98.61
+2022,Percentage (%),Municipal,Treated,98.54
+2013,Million cubic metres,Industries,Not treated,1208.4
+2015,Million cubic metres,Industries,Not treated,1170.6
+2017,Million cubic metres,Industries,Not treated,1126.3
+2020,Million cubic metres,Industries,Not treated,1200.7
+2021,Million cubic metres,Industries,Not treated,1288.1
+2013,Million cubic metres,Industries,Safely treated,1734.3
+2015,Million cubic metres,Industries,Safely treated,1423.8
+2017,Million cubic metres,Industries,Safely treated,1378.3
+2020,Million cubic metres,Industries,Safely treated,1486.2
+2021,Million cubic metres,Industries,Safely treated,1464.4
+2013,Million cubic metres,Industries,Treated,2349.0
+2015,Million cubic metres,Industries,Treated,2003.4
+2017,Million cubic metres,Industries,Treated,1989.8
+2020,Million cubic metres,Industries,Treated,2194.8
+2021,Million cubic metres,Industries,Treated,2107.4
+2013,Million cubic metres,Industries,Generated,3557.4
+2015,Million cubic metres,Industries,Generated,3174.0
+2017,Million cubic metres,Industries,Generated,3116.1
+2020,Million cubic metres,Industries,Generated,3395.5
+2021,Million cubic metres,Industries,Generated,3395.5
+2013,Million cubic metres,Municipal,Generated,5834.1
+2014,Million cubic metres,Municipal,Generated,5890.3
+2015,Million cubic metres,Municipal,Generated,5547.3
+2016,Million cubic metres,Municipal,Generated,5700.5
+2017,Million cubic metres,Municipal,Generated,5937.9
+2018,Million cubic metres,Municipal,Generated,5757.9
+2019,Million cubic metres,Municipal,Generated,6026.5
+2020,Million cubic metres,Municipal,Generated,5793.3
+2021,Million cubic metres,Municipal,Generated,5348.0
+2022,Million cubic metres,Municipal,Generated,5661.4
+2013,Million cubic metres,Municipal,Not treated,111.1
+2014,Million cubic metres,Municipal,Not treated,113.6
+2015,Million cubic metres,Municipal,Not treated,105.0
+2016,Million cubic metres,Municipal,Not treated,106.7
+2017,Million cubic metres,Municipal,Not treated,114.0
+2018,Million cubic metres,Municipal,Not treated,109.6
+2019,Million cubic metres,Municipal,Not treated,108.7
+2020,Million cubic metres,Municipal,Not treated,102.3
+2021,Million cubic metres,Municipal,Not treated,74.4
+2022,Million cubic metres,Municipal,Not treated,82.4
+2013,Million cubic metres,Municipal,Safely treated,4196.4
+2014,Million cubic metres,Municipal,Safely treated,4251.0
+2015,Million cubic metres,Municipal,Safely treated,4020.1
+2016,Million cubic metres,Municipal,Safely treated,4097.8
+2017,Million cubic metres,Municipal,Safely treated,4288.2
+2018,Million cubic metres,Municipal,Safely treated,4143.4
+2019,Million cubic metres,Municipal,Safely treated,4413.1
+2020,Million cubic metres,Municipal,Safely treated,4241.9
+2021,Million cubic metres,Municipal,Safely treated,3957.3
+2022,Million cubic metres,Municipal,Safely treated,4178.7
+2013,Million cubic metres,Municipal,Treated,5723.0
+2014,Million cubic metres,Municipal,Treated,5776.7
+2015,Million cubic metres,Municipal,Treated,5442.3
+2016,Million cubic metres,Municipal,Treated,5593.7
+2017,Million cubic metres,Municipal,Treated,5823.9
+2018,Million cubic metres,Municipal,Treated,5648.3
+2019,Million cubic metres,Municipal,Treated,5917.9
+2020,Million cubic metres,Municipal,Treated,5691.1
+2021,Million cubic metres,Municipal,Treated,5273.5
+2022,Million cubic metres,Municipal,Treated,5579.0

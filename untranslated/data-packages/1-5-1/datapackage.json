@@ -1,0 +1,56 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rate per 100,000 population",
+                "Number",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of natural disaster",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Storm - Unspecified / Other",
+                "Wildfire",
+                "Storms and Severe Thunderstorms",
+                "Flood",
+                "Winter Storm",
+                "Hurricane / Typhoon / Tropical Storm",
+                "Tornado",
+                "Heat Event",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "1-5-1",
+  "title": "global_indicators.1-5-1-title"
+}

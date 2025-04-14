@@ -1,0 +1,96 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Household income quintile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All quintiles",
+                "Lowest quintile",
+                "Second quintile",
+                ""
+              ]
+            },
+            "title": "Household income quintile"
+          },
+          {
+            "name": "Household income decile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total deciles",
+                "Lowest decile",
+                "Second decile",
+                "Third decile",
+                "Fourth decile",
+                ""
+              ]
+            },
+            "title": "Household income decile"
+          },
+          {
+            "name": "Geography",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Canada",
+                "Newfoundland and Labrador",
+                "Prince Edward Island",
+                "Nova Scotia",
+                "New Brunswick",
+                "Quebec",
+                "Ontario",
+                "Manitoba",
+                "Saskatchewan",
+                "Alberta",
+                "British Columbia",
+                ""
+              ]
+            },
+            "title": "Geography"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Household expenditure per capita",
+                "Income per capita",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-1-1",
+  "title": "Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population"
+}

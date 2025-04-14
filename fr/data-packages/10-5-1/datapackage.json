@@ -1,0 +1,46 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "Indicator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ratio des fonds propres réglementaires de base aux actifs pondérés en fonction des risques",
+                "Ratio des créances improductives moins provisions aux fonds propres",
+                "Ratio des créances improductives au total des prêts bruts",
+                "Rentabilité des actifs",
+                "Ratio des actifs liquides aux passifs à court terme",
+                "Ratio des fonds propres réglementaires de base aux actifs",
+                ""
+              ]
+            },
+            "title": "Indicateur"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valeur"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-5-1",
+  "title": "Indicateurs de solidité financière"
+}

@@ -1,0 +1,92 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of households that have access to broadband Internet service at speeds of 50/10 Mbps",
+                "Number of fixed Internet broadband subscriptions",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                "Number",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geography",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Canada",
+                "New Brunswick",
+                "British Columbia",
+                "Quebec",
+                "Nova Scotia",
+                "Saskatchewan",
+                "Ontario",
+                "Manitoba",
+                "Prince Edward Island",
+                "Northwest Territories",
+                "Alberta",
+                "Newfoundland and Labrador",
+                "Yukon",
+                "Nunavut",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Population centres",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "First Nations reserves",
+                "First Nations reserves Urban centres",
+                "First Nations reserves Rural areas",
+                "Urban centres",
+                "Rural areas",
+                "Total population centre",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-6-1",
+  "title": "global_indicators.17-6-1-title"
+}

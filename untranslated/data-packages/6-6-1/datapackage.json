@@ -1,0 +1,80 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of (shared) basins showing high surface-water extent changes",
+                "Permanent water",
+                "Seasonal water",
+                "Reservoir extent",
+                "Wetlands area",
+                "Lake water quality, turbidity",
+                "Lake water quality, trophic",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                "Number",
+                "Square kilometers",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Water extent",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Maximum",
+                "Minimum",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Water quality",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Low",
+                "Medium",
+                "High",
+                "Extreme",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-6-1",
+  "title": "global_indicators.6-6-1-title"
+}
