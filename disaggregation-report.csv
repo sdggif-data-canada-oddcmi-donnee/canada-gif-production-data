@@ -2,7 +2,7 @@ Disaggregation,en,fr,Number of indicators,Number of values
 Activity group,Activity group,Groupe d'activité,1,5
 Activity related to digital skills,Activity related to digital skills,Activité liée à des compétences numériques,1,14
 Age at time of death,Age at time of death,Âge au décès,1,29
-Age group,Age group,Groupe d'âge,20,64
+Age group,Age group,Groupe d'âge,19,65
 Age of primary decision maker,Age of primary decision maker,Âge de la personne principalement responsable de la prise de décision,1,5
 Amount last sent,Amount last sent,Montant d'argent envoyé lors du dernier transfert de fonds,1,6
 Antigen or vaccine,Antigen or vaccine,Antigène ou vaccin,1,17
@@ -10,15 +10,14 @@ Area,Area,Région,4,5
 Assistance type,Assistance type,Type d'aide,1,2
 Basic services,Basic services,Services de base,1,5
 Causes of death,Causes of death,Causes de décès,1,10
-COMMENT_OBS_0,COMMENT_OBS_0,COMMENT_OBS_0,1,1
-COMMENT_OBS_1,COMMENT_OBS_1,COMMENT_OBS_1,1,1
 Component,Component,Composante,2,6
 Demographic characteristics,Demographic characteristics,Caractéristiques démographiques,1,3
 Destination region,Destination region,Région de destination,1,10
 Disability,Disability,Incapacité,4,8
 Discrimination indicators,Discrimination indicators,Indicateurs de discrimination,2,10
 Economic activity,Economic activity,Activité économique,2,3
-Economic family type,Economic family type,Type de famille économique,1,16
+Economic family type,Economic family type,Type de famille économique,1,14
+Education level,Education level,Niveau de scolarité,1,2
 Educational status,Educational status,Situation relativement aux études,1,2
 Elected officials,Elected officials,Élus,1,4
 Employed in past 12 months,Employed in past 12 months,Employé au cours des 12 mois précédant,1,2
@@ -26,7 +25,7 @@ Employment size,Employment size,Tranches d'effectif,1,4
 "First Nations, Métis, or Inuit identity","First Nations, Métis, or Inuit identity","Identité autochtone (Première Nation, Métis ou Inuit)",1,5
 Flow type,Flow type,Type de flux,1,2
 Gender,Gender,Genre,12,13
-Geography,Geography,Géographie,48,97
+Geography,Geography,Géographie,48,98
 Government,Government,Gouvernement,1,2
 Graduation rate,Graduation rate,Taux d'obtention du diplôme,1,2
 Highest level of education,Highest level of education,Plus haut niveau de scolarité,4,27
@@ -41,16 +40,15 @@ Industry,Industry,Industrie,3,140
 Institutions,Institutions,Institutions,1,2
 Key Biodiversity Areas (KBAs),Key Biodiversity Areas (KBAs),Sites importants pour la biodiversité (SIB),1,2
 Land use category,Land use category,Catégorie d'utilisation des sols,1,7
-Least developed countries,Least developed countries,Pays les moins avancés,1,1
 Level of government,Level of government,Niveau de gouvernement,1,2
 LGBTQ2+,LGBTQ2+,LGBTQ2+,2,3
 Location,Location,Emplacement,1,2
 Main activity,Main activity,Activité principale,2,4
-Marital status,Marital status,État matrimonial,4,8
+Marital status,Marital status,État matrimonial,3,5
 Measure,Measure,Mesure,3,7
 Method,Method,Méthode,1,3
+Neglected tropical diseases,Neglected tropical diseases,Maladies tropicales négligées,1,3
 Occupation,Occupation,Occupation,2,15
-Official development assistance,Official development assistance,Aide publique au développement,1,1
 Person with disability,Person with disability,Personne ayant une incapacité,1,2
 Persons in low income,Persons in low income,Personnes à faible revenu,2,12
 Place of residence of mother,Place of residence of mother,Lieu de résidence de la mère,1,13
@@ -60,18 +58,20 @@ Population,Population,Population,1,7
 Poverty reduction aid type,Poverty reduction aid type,Type d'aide à la réduction de la pauvreté,1,5
 Product,Product,Produit,1,5
 Proficiency level,Proficiency level,Niveau de compétence,2,6
+Recipient country,Recipient country,Pays bénéficiaire,1,2
 Resolution mechanism,Resolution mechanism,Mécanisme de résolution,1,6
 Sector,Sector,Secteur,1,2
 Selected characteristics,Selected characteristics,Caractéristiques sélectionnées,1,9
 Selected sociodemographic characteristics,Selected sociodemographic characteristics,Certaines caractéristiques sociodémographiques,1,16
-Series,Series,Series,27,78
+Series,Series,Series,30,82
 Severity,Severity,Sévérité,1,4
-Sex,Sex,Sexe,18,9
+Sex,Sex,Sexe,19,10
 Sexual orientation,Sexual orientation,Orientation sexuelle,3,10
 Size,Size,Taille,1,6
 Skill,Skill,Compétences,1,2
 Sociodemographic characteristics,Sociodemographic characteristics,Caractéristiques sociodémographiques,1,8
 Source,Source,Source,2,11
+Sources of materials prepared for recycling,Sources of materials prepared for recycling,Sources des matières préparées en vue du recyclage,1,3
 Sources of waste for disposal,Sources of waste for disposal,Sources des déchets à des fins d'élimination,2,3
 Species group,Species group,Groupe d'espèces,1,3
 Standard Accounting Tools,Standard Accounting Tools,Outils de comptabilité standards,1,2
@@ -81,6 +81,7 @@ Sub-indicators,Sub-indicators,Sous-indicateurs,1,5
 System,System,Système,1,3
 Target population,Target population,Population cible,1,5
 Tenure,Tenure,Mode d'occupation,1,7
+Theme,Theme,Thème,1,3
 Tobacco Product,Tobacco Product,Produits du tabac,1,10
 Type of childhood maltreatment,Type of childhood maltreatment,Type de violence physique ou sexuelle subie durant l'enfance,1,3
 Type of disease,Type of disease,Type de maladie,1,4
@@ -88,12 +89,15 @@ Type of electricity generation,Type of electricity generation,Type de production
 Type of heritage,Type of heritage,Type de patrimoine,1,3
 Type of institution attended,Type of institution attended,Type d'institution fréquentée,1,5
 Type of intimate partner violence,Type of intimate partner violence,Type de violence entre partenaires intimes,1,4
+Type of materials diverted,Type of materials diverted,Type de matières récupérées,1,18
 Type of natural disaster,Type of natural disaster,Type de catastrophe naturelle,5,10
 Type of occupation,Type of occupation,Type de profession,1,4
 Type of victimization,Type of victimization,Type de victimisation,1,3
 Type of work,Type of work,Genre de travail,1,3
-Units,Units,Unités,25,23
+Units,Units,Unités,26,24
 Unwanted or inappropriate behaviour,Unwanted or inappropriate behaviour,Comportements non désirés ou inappropriés,1,5
 Visible minority,Visible minority,Minorité visible,8,20
 Wastewater treatment level,Wastewater treatment level,Niveau de traitement des eaux usées,1,4
 Water quality category,Water quality category,Qualité de l'eau,1,3
+Water resources management category,Water resources management category,Catégorie gestion des ressources en eau,1,4
+Water resources management sub-category,Water resources management sub-category,Sous-catégorie gestion des ressources en eau,1,33

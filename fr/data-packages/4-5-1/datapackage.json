@@ -22,8 +22,8 @@
               "enum": [
                 "Taux d'achèvement",
                 "Taux de scolarité",
-                "Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois",
                 "Proportion d'élèves atteignant au moins un niveau minimum de compétence en mathématiques",
+                "Taux de participation des jeunes et des adultes à l'éducation et à la formation formelles et non formelles au cours des 12 derniers mois",
                 "Proportion d'élèves atteignant au moins un niveau minimum de compétence en lecture",
                 ""
               ]
@@ -48,10 +48,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Éducation primaire",
-                "Éducation secondaire de premier cycle",
                 "Éducation secondaire de deuxième cycle",
-                "Au moins une partie de l'éducation primaire (CITE 1)",
                 "A complété une éducation primaire ou supérieure",
                 "A complété une éducation secondaire de premier cycle ou supérieure",
                 "A complété une éducation secondaire de deuxième cycle ou supérieure",
@@ -60,6 +57,9 @@
                 "A complété un baccalauréat ou éducation équivalente ou supérieure",
                 "A complété une maîtrise ou éducation équivalente ou supérieure",
                 "A complété un doctorat ou éducation équivalente",
+                "Au moins une partie de l'éducation primaire (CITE 1)",
+                "Éducation secondaire de premier cycle",
+                "Éducation primaire",
                 ""
               ]
             },
@@ -108,11 +108,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Donnée modélisée",
+                "Estimate produced by the UNESCO Institute for Statistics (UIS).",
                 ""
               ]
             },
             "title": "COMMENT_OBS"
+          },
+          {
+            "name": "Progress",
+            "type": "string",
+            "title": "Progress"
           },
           {
             "name": "Value",

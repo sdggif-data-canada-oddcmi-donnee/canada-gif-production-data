@@ -20,12 +20,27 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "15 to 24 years",
+                "15 to 49 years",
+                "50 years and over",
                 "All ages",
-                "Adults (15-49)",
                 ""
               ]
             },
             "title": "Age group"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both sexes",
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",

@@ -12,8 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Année"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "a) Politiques nationales d’éducation",
+                "b) Programmes d’enseignement",
+                "c) Formation des enseignants",
+                "d) Évaluation des étudiants",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -26,5 +40,5 @@
   ],
   "profile": "data-package",
   "name": "12-8-1",
-  "title": "Degré d’intégration de i) l’éducation à la citoyenneté mondiale et ii) l’éducation au développement durable dans a) les politiques nationales d’éducation, b) les programmes d’enseignement, c) la formation des enseignants et d) l’évaluation des étudiants (identique à l’amélioration à apporter à l’indicateur 4.7.1 ci dessus et à l’indicateur proposé en remplacement de l’indicateur 13.3.1, figurant à la section A de l’annexe II)"
+  "title": "Degré d’intégration de i) l’éducation à la citoyenneté mondiale et ii) l’éducation au développement durable dans a) les politiques nationales d’éducation, b) les programmes d’enseignement, c) la formation des enseignants et d) l’évaluation des étudiants"
 }

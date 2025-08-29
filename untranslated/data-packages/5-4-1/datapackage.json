@@ -33,9 +33,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Total, all persons",
                 "Men+",
                 "Women+",
-                "Total, all persons",
                 ""
               ]
             }
@@ -74,6 +74,10 @@
           },
           {
             "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Progress",
             "type": "string"
           },
           {
