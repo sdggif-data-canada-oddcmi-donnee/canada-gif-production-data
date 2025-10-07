@@ -1,10 +1,10 @@
-Year,Value
-2015,85.565621
-2016,50.979148
-2017,57.651827
-2018,59.338654
-2019,46.799211
-2020,45.555123
-2021,69.030807
-2022,42.01407
-2023,32.738534
+Year,Value,Units
+2015,84.157767,"US dollar, Millions, 2023 constant prices"
+2016,50.158799,"US dollar, Millions, 2023 constant prices"
+2017,56.720795,"US dollar, Millions, 2023 constant prices"
+2018,58.360999,"US dollar, Millions, 2023 constant prices"
+2019,46.037311,"US dollar, Millions, 2023 constant prices"
+2020,44.611565,"US dollar, Millions, 2023 constant prices"
+2021,67.907717,"US dollar, Millions, 2023 constant prices"
+2022,41.153962,"US dollar, Millions, 2023 constant prices"
+2023,31.975212,"US dollar, Millions, 2023 constant prices"
