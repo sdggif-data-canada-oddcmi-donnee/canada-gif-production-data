@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -46,15 +46,14 @@
                 "British Columbia",
                 "Quebec",
                 "Nova Scotia",
-                "Saskatchewan",
                 "Ontario",
                 "Manitoba",
+                "Saskatchewan",
                 "Prince Edward Island",
                 "Northwest Territories",
                 "Alberta",
                 "Newfoundland and Labrador",
                 "Yukon",
-                "Nunavut",
                 ""
               ]
             }
